@@ -1,0 +1,31 @@
+Steps to work with your local git and github remote repository
+
+USE CLONE TO COPY YOUR REPOSITORY FROM GITHUB TO LOCAL GIT REPOSITORY
+
+	Get the github url from your github repos like the following:
+	https://github.com/pshapard/CoronaVirus.git
+	from your local git console type the following.  Be sure to be in the local git folder you want to download the remote repos to.
+	git clone https://github.com/pshapard/CoronaVirus.git
+C:\Users\shapard\new_projects_repo\CoronaVirus
+#########################################################################
+
+Now that you have your local and remote repository sync'ed.  Write your code, in my case, python scripts from the folder, such as
+C:\Users\shapard\new_projects_repo\CoronaVirus\ClassesFuncs.py
+Once you made your changes, type the following at the git console:
+$git add ClassesFuncs.py
+$git commit -m "Change date updated and version"
+$git push
+
+At this point your local and remote repository are sync'ed
+
+#########################################################################
+The 7 steps to of git development workflow.  These commands are from your local git console
+$git status
+$git pull
+Make your changes and edits to your files
+$git status
+$git add [files]
+$git commit -m  "Imperative message"
+$git push
+Please note, the "Imperative message" is the same message you would 
+type in on github when you commit your file, short description
