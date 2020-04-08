@@ -1,0 +1,361 @@
+02/27/2020 03:56:32 PM TESTCASES:###################################ENCLOSURE##########################################
+02/27/2020 03:56:39 PM TESTCASES:The OneView version/build is: 5.10.00-0418068
+02/27/2020 03:56:39 PM TESTCASES:The ip address of this enclosure is: 15.186.9.159
+02/27/2020 03:56:39 PM TESTCASES:The carbon fw version is: None
+02/27/2020 03:56:39 PM TESTCASES:The potash fw version is: 1.6.0.46
+02/27/2020 03:56:39 PM TESTCASES:The nitro fw version is: 2.1.0.45
+02/27/2020 03:56:39 PM TESTCASES:The number of enclosures is: 2
+02/27/2020 03:56:39 PM TESTCASES:Name of enclosure: MXQ8190018
+02/27/2020 03:56:39 PM TESTCASES:The enclosure version: G1
+02/27/2020 03:56:39 PM TESTCASES:The state of enclosure: Configured
+02/27/2020 03:56:39 PM TESTCASES:fw version for FLM in bay 1 is 3.01.00 build date 09/25/2019,19:47:37
+02/27/2020 03:56:39 PM TESTCASES:fw version for FLM in bay 2 is 3.01.00 build date 09/25/2019,19:47:37
+02/27/2020 03:56:39 PM TESTCASES:CIM SN CN781402LP in bay 1 is Present 
+02/27/2020 03:56:39 PM TESTCASES:CIM SN None in bay 2 is Absent 
+02/27/2020 03:56:39 PM TESTCASES:Name of enclosure: MXQ82705W8
+02/27/2020 03:56:39 PM TESTCASES:The enclosure version: G1
+02/27/2020 03:56:39 PM TESTCASES:The state of enclosure: Configured
+02/27/2020 03:56:39 PM TESTCASES:fw version for FLM in bay 1 is 3.01.00 build date 09/25/2019,19:47:37
+02/27/2020 03:56:39 PM TESTCASES:fw version for FLM in bay 2 is 3.01.00 build date 09/25/2019,19:47:37
+02/27/2020 03:56:39 PM TESTCASES:CIM SN None in bay 1 is Absent 
+02/27/2020 03:56:39 PM TESTCASES:CIM SN None in bay 2 is Absent 
+02/27/2020 03:56:39 PM TESTCASES:#################################SERVERS###############################################
+02/27/2020 03:56:39 PM TESTCASES:The number of servers is: 6
+02/27/2020 03:56:39 PM TESTCASES:####################################################################################
+02/27/2020 03:56:39 PM TESTCASES:Server model: Synergy 480 Gen10
+02/27/2020 03:56:39 PM TESTCASES:Server SN: MXQ82705W7
+02/27/2020 03:56:39 PM TESTCASES:Server PN: 871940-B21
+02/27/2020 03:56:39 PM TESTCASES:Name of server: MXQ8190018, bay 2
+02/27/2020 03:56:39 PM TESTCASES:Server memory: 65536
+02/27/2020 03:56:39 PM TESTCASES:Server cpu core count: 4
+02/27/2020 03:56:39 PM TESTCASES:Server cpu count: 1
+02/27/2020 03:56:39 PM TESTCASES:Server cpu type: Intel(R) Xeon(R) Gold 5122 CPU @ 3.60GHz
+02/27/2020 03:56:39 PM TESTCASES:Server ROM ver: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:39 PM TESTCASES:Server iLO ver: 2.11 Nov 12 2019
+02/27/2020 03:56:39 PM TESTCASES:Server iLO hostname: ILOMXQ82705W7.us.rdlabs.hpecorp.net
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv6 linklocal address: fe80:0:0:0:2267:7cff:feda:c298
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv4 dhcp address: fd00:1:1:2:cfdf:477e:7cf:d298
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv4 dhcp address: 15.186.23.54
+02/27/2020 03:56:39 PM TESTCASES:Embedded Video Controller: 2.5
+02/27/2020 03:56:39 PM TESTCASES:HPE Smart Array P204i-c SR Gen10: 2.62
+02/27/2020 03:56:39 PM TESTCASES:Synergy 3820C 10/20Gb CNA: 7.18.54
+02/27/2020 03:56:39 PM TESTCASES:Synergy 6820C 25/50Gb CNA: 08.50.40
+02/27/2020 03:56:39 PM TESTCASES:Power Management Controller FW Bootloader: 1.1
+02/27/2020 03:56:39 PM TESTCASES:Redundant System ROM: I42 v2.22 (11/13/2019)
+02/27/2020 03:56:39 PM TESTCASES:iLO 5: 2.11 Nov 12 2019
+02/27/2020 03:56:39 PM TESTCASES:Smart Storage Energy Pack: 0.60
+02/27/2020 03:56:39 PM TESTCASES:Power Management Controller Firmware: 1.0.4
+02/27/2020 03:56:39 PM TESTCASES:System ROM: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:39 PM TESTCASES:Intelligent Provisioning: 3.40.170
+02/27/2020 03:56:39 PM TESTCASES:System Programmable Logic Device: 0x0B
+02/27/2020 03:56:39 PM TESTCASES:Server Platform Services (SPS) Firmware: 4.1.4.323
+02/27/2020 03:56:39 PM TESTCASES:Intelligent Platform Abstraction Data: 9.5.0 Build 33
+02/27/2020 03:56:39 PM TESTCASES:Innovation Engine (IE) Firmware: 0.2.1.2
+02/27/2020 03:56:39 PM TESTCASES:Matrox G200eH Display Only Driver: 9.15.1.224
+02/27/2020 03:56:39 PM TESTCASES:agentless management service: 2.10.0.0
+02/27/2020 03:56:39 PM TESTCASES:hp lights-out online configuration utility: 5.3.0.0
+02/27/2020 03:56:39 PM TESTCASES:hpe smart array sr event notification service: 1.2.1.64
+02/27/2020 03:56:39 PM TESTCASES:ilo 5 asr driver: 4.6.0.0
+02/27/2020 03:56:39 PM TESTCASES:ilo 5 channel interface driver: 4.6.0.0
+02/27/2020 03:56:39 PM TESTCASES:integrated smart update tools: 2.5.0.0
+02/27/2020 03:56:39 PM TESTCASES:nvme drive eject nmi fix versioning dll: 1.1.0.0
+02/27/2020 03:56:39 PM TESTCASES:qlogic 10 gige vbd: 7.13.171.0
+02/27/2020 03:56:39 PM TESTCASES:qlogic fastlinq ethernet vbd: 8.42.10.0
+02/27/2020 03:56:39 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:39 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:39 PM TESTCASES:smart storage administrator command line interface: 4.15.6.0
+02/27/2020 03:56:39 PM TESTCASES:smartraid, smarthba pqi storport driver: 106.166.0.1022
+02/27/2020 03:56:39 PM TESTCASES:versioning dll for intel c620 based systems: 10.1.18019.8144
+02/27/2020 03:56:39 PM TESTCASES:Drive: HPD3
+02/27/2020 03:56:39 PM TESTCASES:Drive: HPD3
+02/27/2020 03:56:39 PM TESTCASES:####################################################################################
+02/27/2020 03:56:39 PM TESTCASES:Server model: Synergy 480 Gen10
+02/27/2020 03:56:39 PM TESTCASES:Server SN: MXQ80103Y8
+02/27/2020 03:56:39 PM TESTCASES:Server PN: 871940-B21
+02/27/2020 03:56:39 PM TESTCASES:Name of server: MXQ82705W8, bay 3
+02/27/2020 03:56:39 PM TESTCASES:Server memory: 32768
+02/27/2020 03:56:39 PM TESTCASES:Server cpu core count: 4
+02/27/2020 03:56:39 PM TESTCASES:Server cpu count: 2
+02/27/2020 03:56:39 PM TESTCASES:Server cpu type: Intel(R) Xeon(R) Gold 5122 CPU @ 3.60GHz
+02/27/2020 03:56:39 PM TESTCASES:Server ROM ver: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:39 PM TESTCASES:Server iLO ver: 2.11 Nov 12 2019
+02/27/2020 03:56:39 PM TESTCASES:Server iLO hostname: ILOMXQ80103Y8.us.rdlabs.hpecorp.net
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv6 linklocal address: fe80:0:0:0:9af2:b3ff:fe22:48a8
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv4 dhcp address: fd00:1:1:2:3ff6:3d1a:a1a3:8678
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv4 dhcp address: 15.186.23.52
+02/27/2020 03:56:39 PM TESTCASES:Embedded Video Controller: 2.5
+02/27/2020 03:56:39 PM TESTCASES:HPE Smart Array P204i-c SR Gen10: 2.62
+02/27/2020 03:56:39 PM TESTCASES:Synergy 3820C 10/20Gb CNA: 7.18.54
+02/27/2020 03:56:39 PM TESTCASES:Power Management Controller FW Bootloader: 1.1
+02/27/2020 03:56:39 PM TESTCASES:Redundant System ROM: I42 v2.22 (11/13/2019)
+02/27/2020 03:56:39 PM TESTCASES:iLO 5: 2.11 Nov 12 2019
+02/27/2020 03:56:39 PM TESTCASES:Smart Storage Energy Pack: 2.1
+02/27/2020 03:56:39 PM TESTCASES:Power Management Controller Firmware: 1.0.4
+02/27/2020 03:56:39 PM TESTCASES:System ROM: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:39 PM TESTCASES:Intelligent Provisioning: 3.40.170
+02/27/2020 03:56:39 PM TESTCASES:System Programmable Logic Device: 0x0A
+02/27/2020 03:56:39 PM TESTCASES:Server Platform Services (SPS) Firmware: 4.1.4.323
+02/27/2020 03:56:39 PM TESTCASES:Intelligent Platform Abstraction Data: 9.5.0 Build 33
+02/27/2020 03:56:39 PM TESTCASES:Innovation Engine (IE) Firmware: 0.2.1.2
+02/27/2020 03:56:39 PM TESTCASES:Matrox G200eH Display Only Driver: 9.15.1.224
+02/27/2020 03:56:39 PM TESTCASES:agentless management service: 2.10.0.0
+02/27/2020 03:56:39 PM TESTCASES:hp lights-out online configuration utility: 5.3.0.0
+02/27/2020 03:56:39 PM TESTCASES:hpe smart array sr event notification service: 1.2.1.64
+02/27/2020 03:56:39 PM TESTCASES:ilo 5 asr driver: 4.6.0.0
+02/27/2020 03:56:39 PM TESTCASES:ilo 5 channel interface driver: 4.6.0.0
+02/27/2020 03:56:39 PM TESTCASES:integrated smart update tools: 2.5.0.0
+02/27/2020 03:56:39 PM TESTCASES:nvme drive eject nmi fix versioning dll: 1.1.0.0
+02/27/2020 03:56:39 PM TESTCASES:qlogic 10 gige vbd: 7.13.171.0
+02/27/2020 03:56:39 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:39 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:39 PM TESTCASES:smart storage administrator command line interface: 4.15.6.0
+02/27/2020 03:56:39 PM TESTCASES:smartraid, smarthba pqi storport driver: 106.166.0.1022
+02/27/2020 03:56:39 PM TESTCASES:versioning dll for intel c620 based systems: 10.1.18019.8144
+02/27/2020 03:56:39 PM TESTCASES:Drive: HPD5
+02/27/2020 03:56:39 PM TESTCASES:Drive: HPD5
+02/27/2020 03:56:39 PM TESTCASES:####################################################################################
+02/27/2020 03:56:39 PM TESTCASES:Server model: Synergy 480 Gen10
+02/27/2020 03:56:39 PM TESTCASES:Server SN: MXQ82705W6
+02/27/2020 03:56:39 PM TESTCASES:Server PN: 871940-B21
+02/27/2020 03:56:39 PM TESTCASES:Name of server: MXQ82705W8, bay 1
+02/27/2020 03:56:39 PM TESTCASES:Server memory: 65536
+02/27/2020 03:56:39 PM TESTCASES:Server cpu core count: 4
+02/27/2020 03:56:39 PM TESTCASES:Server cpu count: 1
+02/27/2020 03:56:39 PM TESTCASES:Server cpu type: Intel(R) Xeon(R) Gold 5122 CPU @ 3.60GHz
+02/27/2020 03:56:39 PM TESTCASES:Server ROM ver: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:39 PM TESTCASES:Server iLO ver: 2.11 Nov 12 2019
+02/27/2020 03:56:39 PM TESTCASES:Server iLO hostname: ILOMXQ82705W6.us.rdlabs.hpecorp.net
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv6 linklocal address: fe80:0:0:0:2267:7cff:feda:c2d0
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv4 dhcp address: fd00:1:1:2:89bb:5c5c:2137:4f67
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv4 dhcp address: 15.186.23.53
+02/27/2020 03:56:39 PM TESTCASES:Embedded Video Controller: 2.5
+02/27/2020 03:56:39 PM TESTCASES:Synergy 4820C 10/20/25Gb CNA: 08.50.40
+02/27/2020 03:56:39 PM TESTCASES:Synergy 6820C 25/50Gb CNA: 08.50.40
+02/27/2020 03:56:39 PM TESTCASES:Power Management Controller FW Bootloader: 1.1
+02/27/2020 03:56:39 PM TESTCASES:Redundant System ROM: I42 v2.22 (11/13/2019)
+02/27/2020 03:56:39 PM TESTCASES:iLO 5: 2.11 Nov 12 2019
+02/27/2020 03:56:39 PM TESTCASES:Smart Storage Energy Pack: 0.60
+02/27/2020 03:56:39 PM TESTCASES:Power Management Controller Firmware: 1.0.4
+02/27/2020 03:56:39 PM TESTCASES:System ROM: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:39 PM TESTCASES:Intelligent Provisioning: 3.40.170
+02/27/2020 03:56:39 PM TESTCASES:System Programmable Logic Device: 0x0B
+02/27/2020 03:56:39 PM TESTCASES:Server Platform Services (SPS) Firmware: 4.1.4.323
+02/27/2020 03:56:39 PM TESTCASES:Intelligent Platform Abstraction Data: 9.5.0 Build 33
+02/27/2020 03:56:39 PM TESTCASES:Innovation Engine (IE) Firmware: 0.2.1.2
+02/27/2020 03:56:39 PM TESTCASES:Matrox G200eH Display Only Driver: 9.15.1.224
+02/27/2020 03:56:39 PM TESTCASES:agentless management service: 2.10.0.0
+02/27/2020 03:56:39 PM TESTCASES:hp lights-out online configuration utility: 5.3.0.0
+02/27/2020 03:56:39 PM TESTCASES:ilo 5 asr driver: 4.6.0.0
+02/27/2020 03:56:39 PM TESTCASES:ilo 5 channel interface driver: 4.6.0.0
+02/27/2020 03:56:39 PM TESTCASES:integrated smart update tools: 2.5.0.0
+02/27/2020 03:56:39 PM TESTCASES:nvme drive eject nmi fix versioning dll: 1.1.0.0
+02/27/2020 03:56:39 PM TESTCASES:qlogic fastlinq ethernet vbd: 8.42.10.0
+02/27/2020 03:56:39 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:39 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:39 PM TESTCASES:smart storage administrator command line interface: 4.15.6.0
+02/27/2020 03:56:39 PM TESTCASES:versioning dll for intel c620 based systems: 10.1.18019.8144
+02/27/2020 03:56:39 PM TESTCASES:####################################################################################
+02/27/2020 03:56:39 PM TESTCASES:Server model: Synergy 480 Gen10
+02/27/2020 03:56:39 PM TESTCASES:Server SN: MXQ72407H6
+02/27/2020 03:56:39 PM TESTCASES:Server PN: 871946-B21
+02/27/2020 03:56:39 PM TESTCASES:Name of server: MXQ8190018, bay 1
+02/27/2020 03:56:39 PM TESTCASES:Server memory: 16384
+02/27/2020 03:56:39 PM TESTCASES:Server cpu core count: 6
+02/27/2020 03:56:39 PM TESTCASES:Server cpu count: 1
+02/27/2020 03:56:39 PM TESTCASES:Server cpu type: Intel(R) Xeon(R) Bronze 3104 CPU @ 1.70GHz
+02/27/2020 03:56:39 PM TESTCASES:Server ROM ver: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:39 PM TESTCASES:Server iLO ver: 2.11 Nov 12 2019
+02/27/2020 03:56:39 PM TESTCASES:Server iLO hostname: ILOMXQ72407H6.us.rdlabs.hpecorp.net
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv6 linklocal address: fe80:0:0:0:32e1:71ff:fe69:680
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv4 dhcp address: fd00:1:1:2:24b7:fcd8:21fe:e47d
+02/27/2020 03:56:39 PM TESTCASES:iLO IPv4 dhcp address: 15.186.24.242
+02/27/2020 03:56:40 PM TESTCASES:Embedded Video Controller: 2.5
+02/27/2020 03:56:40 PM TESTCASES:HPE Smart Array E208i-c SR Gen10: 2.62
+02/27/2020 03:56:40 PM TESTCASES:Synergy 3820C 10/20Gb CNA: 7.18.54
+02/27/2020 03:56:40 PM TESTCASES:Synergy 6820C 25/50Gb CNA: 08.50.40
+02/27/2020 03:56:40 PM TESTCASES:Power Management Controller FW Bootloader: 1.1
+02/27/2020 03:56:40 PM TESTCASES:Redundant System ROM: I42 v2.22 (11/13/2019)
+02/27/2020 03:56:40 PM TESTCASES:iLO 5: 2.11 Nov 12 2019
+02/27/2020 03:56:40 PM TESTCASES:Power Management Controller Firmware: 1.0.4
+02/27/2020 03:56:40 PM TESTCASES:System ROM: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:40 PM TESTCASES:Intelligent Provisioning: 3.40.170
+02/27/2020 03:56:40 PM TESTCASES:System Programmable Logic Device: 0x0A
+02/27/2020 03:56:40 PM TESTCASES:Server Platform Services (SPS) Firmware: 4.1.4.323
+02/27/2020 03:56:40 PM TESTCASES:Intelligent Platform Abstraction Data: 9.5.0 Build 33
+02/27/2020 03:56:40 PM TESTCASES:Innovation Engine (IE) Firmware: 0.2.1.2
+02/27/2020 03:56:40 PM TESTCASES:Matrox G200eH Display Only Driver: 9.15.1.224
+02/27/2020 03:56:40 PM TESTCASES:agentless management service: 2.10.0.0
+02/27/2020 03:56:40 PM TESTCASES:hp fibre channel host bus adapter version marker: 1.0.0.1
+02/27/2020 03:56:40 PM TESTCASES:hp lights-out online configuration utility: 5.3.0.0
+02/27/2020 03:56:40 PM TESTCASES:hpe smart array sr event notification service: 1.2.1.64
+02/27/2020 03:56:40 PM TESTCASES:ilo 5 asr driver: 4.6.0.0
+02/27/2020 03:56:40 PM TESTCASES:ilo 5 channel interface driver: 4.6.0.0
+02/27/2020 03:56:40 PM TESTCASES:integrated smart update tools: 2.5.0.0
+02/27/2020 03:56:40 PM TESTCASES:nvme drive eject nmi fix versioning dll: 1.1.0.0
+02/27/2020 03:56:40 PM TESTCASES:qlogic 10 gige vbd: 7.13.171.0
+02/27/2020 03:56:40 PM TESTCASES:qlogic fastlinq ethernet vbd: 8.42.10.0
+02/27/2020 03:56:40 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:40 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:40 PM TESTCASES:smart storage administrator command line interface: 4.15.6.0
+02/27/2020 03:56:40 PM TESTCASES:smartraid, smarthba pqi storport driver: 106.166.0.1022
+02/27/2020 03:56:40 PM TESTCASES:versioning dll for intel c620 based systems: 10.1.18019.8144
+02/27/2020 03:56:40 PM TESTCASES:Drive: HPD4
+02/27/2020 03:56:40 PM TESTCASES:####################################################################################
+02/27/2020 03:56:40 PM TESTCASES:Server model: Synergy 480 Gen10
+02/27/2020 03:56:40 PM TESTCASES:Server SN: MXQ82705W5
+02/27/2020 03:56:40 PM TESTCASES:Server PN: 871940-B21
+02/27/2020 03:56:40 PM TESTCASES:Name of server: MXQ82705W8, bay 2
+02/27/2020 03:56:40 PM TESTCASES:Server memory: 65536
+02/27/2020 03:56:40 PM TESTCASES:Server cpu core count: 4
+02/27/2020 03:56:40 PM TESTCASES:Server cpu count: 1
+02/27/2020 03:56:40 PM TESTCASES:Server cpu type: Intel(R) Xeon(R) Gold 5122 CPU @ 3.60GHz
+02/27/2020 03:56:40 PM TESTCASES:Server ROM ver: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:40 PM TESTCASES:Server iLO ver: 2.11 Nov 12 2019
+02/27/2020 03:56:40 PM TESTCASES:Server iLO hostname: ILOMXQ82705W5.us.rdlabs.hpecorp.net
+02/27/2020 03:56:40 PM TESTCASES:iLO IPv6 linklocal address: fe80:0:0:0:2267:7cff:feda:d282
+02/27/2020 03:56:40 PM TESTCASES:iLO IPv4 dhcp address: fd00:1:1:2:12fd:4f32:327f:d4b6
+02/27/2020 03:56:40 PM TESTCASES:iLO IPv4 dhcp address: 15.186.23.51
+02/27/2020 03:56:40 PM TESTCASES:Embedded Video Controller: 2.5
+02/27/2020 03:56:40 PM TESTCASES:Synergy 3820C 10/20Gb CNA: 7.18.54
+02/27/2020 03:56:40 PM TESTCASES:Synergy 6820C 25/50Gb CNA: 08.50.40
+02/27/2020 03:56:40 PM TESTCASES:Power Management Controller FW Bootloader: 1.1
+02/27/2020 03:56:40 PM TESTCASES:Redundant System ROM: I42 v2.22 (11/13/2019)
+02/27/2020 03:56:40 PM TESTCASES:iLO 5: 2.11 Nov 12 2019
+02/27/2020 03:56:40 PM TESTCASES:Smart Storage Energy Pack: 0.60
+02/27/2020 03:56:40 PM TESTCASES:Power Management Controller Firmware: 1.0.4
+02/27/2020 03:56:40 PM TESTCASES:System ROM: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:40 PM TESTCASES:Intelligent Provisioning: 3.40.170
+02/27/2020 03:56:40 PM TESTCASES:System Programmable Logic Device: 0x0B
+02/27/2020 03:56:40 PM TESTCASES:Server Platform Services (SPS) Firmware: 4.1.4.323
+02/27/2020 03:56:40 PM TESTCASES:Intelligent Platform Abstraction Data: 9.5.0 Build 33
+02/27/2020 03:56:40 PM TESTCASES:Innovation Engine (IE) Firmware: 0.2.1.2
+02/27/2020 03:56:40 PM TESTCASES:Matrox G200eH Display Only Driver: 9.15.1.224
+02/27/2020 03:56:40 PM TESTCASES:agentless management service: 2.10.0.0
+02/27/2020 03:56:40 PM TESTCASES:hp lights-out online configuration utility: 5.3.0.0
+02/27/2020 03:56:40 PM TESTCASES:ilo 5 asr driver: 4.6.0.0
+02/27/2020 03:56:40 PM TESTCASES:ilo 5 channel interface driver: 4.6.0.0
+02/27/2020 03:56:40 PM TESTCASES:integrated smart update tools: 2.5.0.0
+02/27/2020 03:56:40 PM TESTCASES:nvme drive eject nmi fix versioning dll: 1.1.0.0
+02/27/2020 03:56:40 PM TESTCASES:qlogic 10 gige vbd: 7.13.171.0
+02/27/2020 03:56:40 PM TESTCASES:qlogic fastlinq ethernet vbd: 8.42.10.0
+02/27/2020 03:56:40 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:40 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:40 PM TESTCASES:smart storage administrator command line interface: 4.15.6.0
+02/27/2020 03:56:40 PM TESTCASES:versioning dll for intel c620 based systems: 10.1.18019.8144
+02/27/2020 03:56:40 PM TESTCASES:####################################################################################
+02/27/2020 03:56:40 PM TESTCASES:Server model: Synergy 480 Gen10
+02/27/2020 03:56:40 PM TESTCASES:Server SN: MXQ832018G
+02/27/2020 03:56:40 PM TESTCASES:Server PN: 871940-B21
+02/27/2020 03:56:40 PM TESTCASES:Name of server: MXQ8190018, bay 3
+02/27/2020 03:56:40 PM TESTCASES:Server memory: 65536
+02/27/2020 03:56:40 PM TESTCASES:Server cpu core count: 4
+02/27/2020 03:56:40 PM TESTCASES:Server cpu count: 2
+02/27/2020 03:56:40 PM TESTCASES:Server cpu type: Intel(R) Xeon(R) Gold 5122 CPU @ 3.60GHz
+02/27/2020 03:56:40 PM TESTCASES:Server ROM ver: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:40 PM TESTCASES:Server iLO ver: 2.11 Nov 12 2019
+02/27/2020 03:56:40 PM TESTCASES:Server iLO hostname: ILOMXQ832018G.us.rdlabs.hpecorp.net
+02/27/2020 03:56:40 PM TESTCASES:iLO IPv6 linklocal address: fe80:0:0:0:2267:7cff:fedb:2392
+02/27/2020 03:56:40 PM TESTCASES:iLO IPv4 dhcp address: fd00:1:1:2:a59f:61e8:b5f5:3d5e
+02/27/2020 03:56:40 PM TESTCASES:iLO IPv4 dhcp address: 15.186.23.49
+02/27/2020 03:56:40 PM TESTCASES:Embedded Video Controller: 2.5
+02/27/2020 03:56:40 PM TESTCASES:Synergy 3820C 10/20Gb CNA: 7.18.54
+02/27/2020 03:56:40 PM TESTCASES:Synergy 6820C 25/50Gb CNA: 08.50.40
+02/27/2020 03:56:40 PM TESTCASES:Power Management Controller FW Bootloader: 1.1
+02/27/2020 03:56:40 PM TESTCASES:Redundant System ROM: I42 v2.22 (11/13/2019)
+02/27/2020 03:56:40 PM TESTCASES:iLO 5: 2.11 Nov 12 2019
+02/27/2020 03:56:40 PM TESTCASES:Smart Storage Energy Pack: 0.60
+02/27/2020 03:56:40 PM TESTCASES:Power Management Controller Firmware: 1.0.4
+02/27/2020 03:56:40 PM TESTCASES:System ROM: I42 v2.30 (11/25/2019)
+02/27/2020 03:56:40 PM TESTCASES:Intelligent Provisioning: 3.40.170
+02/27/2020 03:56:40 PM TESTCASES:System Programmable Logic Device: 0x0B
+02/27/2020 03:56:40 PM TESTCASES:Server Platform Services (SPS) Firmware: 4.1.4.323
+02/27/2020 03:56:40 PM TESTCASES:Intelligent Platform Abstraction Data: 9.5.0 Build 33
+02/27/2020 03:56:40 PM TESTCASES:Innovation Engine (IE) Firmware: 0.2.1.2
+02/27/2020 03:56:40 PM TESTCASES:Matrox G200eH Display Only Driver: 9.15.1.224
+02/27/2020 03:56:40 PM TESTCASES:agentless management service: 2.10.0.0
+02/27/2020 03:56:40 PM TESTCASES:hp lights-out online configuration utility: 5.3.0.0
+02/27/2020 03:56:40 PM TESTCASES:ilo 5 asr driver: 4.6.0.0
+02/27/2020 03:56:40 PM TESTCASES:ilo 5 channel interface driver: 4.6.0.0
+02/27/2020 03:56:40 PM TESTCASES:integrated smart update tools: 2.5.0.0
+02/27/2020 03:56:40 PM TESTCASES:nvme drive eject nmi fix versioning dll: 1.1.0.0
+02/27/2020 03:56:40 PM TESTCASES:qlogic 10 gige vbd: 7.13.171.0
+02/27/2020 03:56:40 PM TESTCASES:qlogic fastlinq ethernet vbd: 8.42.10.0
+02/27/2020 03:56:40 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:40 PM TESTCASES:smart storage administrator: 4.15.6.0
+02/27/2020 03:56:40 PM TESTCASES:smart storage administrator command line interface: 4.15.6.0
+02/27/2020 03:56:40 PM TESTCASES:versioning dll for intel c620 based systems: 10.1.18019.8144
+02/27/2020 03:56:40 PM TESTCASES:#################################INTERCONNECTS#########################################
+02/27/2020 03:56:41 PM TESTCASES:The interconnect location: MXQ8190018, interconnect 4
+02/27/2020 03:56:41 PM TESTCASES:The interconnect model: Synergy 20Gb Interconnect Link Module
+02/27/2020 03:56:41 PM TESTCASES:The interconnect firmware: 1.18
+02/27/2020 03:56:41 PM TESTCASES:The interconnect state: Configured
+02/27/2020 03:56:41 PM TESTCASES:The interconnect SN: 7C970700DZ
+02/27/2020 03:56:41 PM TESTCASES:The interconnect PN: 779218-B21
+02/27/2020 03:56:41 PM TESTCASES:##################################################################
+02/27/2020 03:56:41 PM TESTCASES:The interconnect location: MXQ8190018, interconnect 1
+02/27/2020 03:56:41 PM TESTCASES:The interconnect model: Virtual Connect SE 40Gb F8 Module for Synergy
+02/27/2020 03:56:41 PM TESTCASES:The interconnect firmware: 1.6.0.46
+02/27/2020 03:56:41 PM TESTCASES:The interconnect state: Configured
+02/27/2020 03:56:41 PM TESTCASES:The interconnect SN: 2TV5451778
+02/27/2020 03:56:41 PM TESTCASES:The interconnect PN: 794502-B23
+02/27/2020 03:56:41 PM TESTCASES:The interconnect IPv6 linklocal address: fe80::5eb9:1ff:fe47:ee75
+02/27/2020 03:56:41 PM TESTCASES:The interconnect IPv4 dhcp address: 15.186.26.190
+02/27/2020 03:56:41 PM TESTCASES:##################################################################
+02/27/2020 03:56:41 PM TESTCASES:The interconnect location: MXQ8190018, interconnect 3
+02/27/2020 03:56:41 PM TESTCASES:The interconnect model: Virtual Connect SE 100Gb F32 Module for Synergy
+02/27/2020 03:56:41 PM TESTCASES:The interconnect firmware: 2.1.0.45
+02/27/2020 03:56:41 PM TESTCASES:The interconnect state: Configured
+02/27/2020 03:56:41 PM TESTCASES:The interconnect SN: TW2741001Z
+02/27/2020 03:56:41 PM TESTCASES:The interconnect PN: 867796-B21
+02/27/2020 03:56:41 PM TESTCASES:The interconnect IPv6 linklocal address: fe80::9edc:71ff:fe9a:c000
+02/27/2020 03:56:41 PM TESTCASES:The interconnect IPv4 dhcp address: 15.186.27.25
+02/27/2020 03:56:41 PM TESTCASES:##################################################################
+02/27/2020 03:56:41 PM TESTCASES:The interconnect location: MXQ8190018, interconnect 6
+02/27/2020 03:56:41 PM TESTCASES:The interconnect model: HPE Synergy 50Gb Satellite Link Module
+02/27/2020 03:56:41 PM TESTCASES:The interconnect firmware: 1.0.0.1002
+02/27/2020 03:56:41 PM TESTCASES:The interconnect state: Configured
+02/27/2020 03:56:41 PM TESTCASES:The interconnect SN: TW27380018
+02/27/2020 03:56:41 PM TESTCASES:The interconnect PN: 867793-B21
+02/27/2020 03:56:41 PM TESTCASES:##################################################################
+02/27/2020 03:56:41 PM TESTCASES:The interconnect location: MXQ82705W8, interconnect 1
+02/27/2020 03:56:41 PM TESTCASES:The interconnect model: Synergy 20Gb Interconnect Link Module
+02/27/2020 03:56:41 PM TESTCASES:The interconnect firmware: 1.18
+02/27/2020 03:56:41 PM TESTCASES:The interconnect state: Configured
+02/27/2020 03:56:41 PM TESTCASES:The interconnect SN: 7C9707009M
+02/27/2020 03:56:41 PM TESTCASES:The interconnect PN: 779218-B21
+02/27/2020 03:56:41 PM TESTCASES:##################################################################
+02/27/2020 03:56:41 PM TESTCASES:The interconnect location: MXQ82705W8, interconnect 6
+02/27/2020 03:56:41 PM TESTCASES:The interconnect model: Virtual Connect SE 100Gb F32 Module for Synergy
+02/27/2020 03:56:41 PM TESTCASES:The interconnect firmware: 2.1.0.45
+02/27/2020 03:56:41 PM TESTCASES:The interconnect state: Configured
+02/27/2020 03:56:41 PM TESTCASES:The interconnect SN: TW2741002R
+02/27/2020 03:56:41 PM TESTCASES:The interconnect PN: 867796-B21
+02/27/2020 03:56:41 PM TESTCASES:The interconnect IPv6 linklocal address: fe80::9edc:71ff:fe9a:d02c
+02/27/2020 03:56:41 PM TESTCASES:The interconnect IPv4 dhcp address: 15.186.27.111
+02/27/2020 03:56:41 PM TESTCASES:##################################################################
+02/27/2020 03:56:41 PM TESTCASES:The interconnect location: MXQ82705W8, interconnect 4
+02/27/2020 03:56:41 PM TESTCASES:The interconnect model: Virtual Connect SE 40Gb F8 Module for Synergy
+02/27/2020 03:56:41 PM TESTCASES:The interconnect firmware: 1.6.0.46
+02/27/2020 03:56:41 PM TESTCASES:The interconnect state: Configured
+02/27/2020 03:56:41 PM TESTCASES:The interconnect SN: 2TV5502037
+02/27/2020 03:56:41 PM TESTCASES:The interconnect PN: 794502-B23
+02/27/2020 03:56:41 PM TESTCASES:The interconnect IPv6 linklocal address: fe80::5eb9:1ff:fe28:851b
+02/27/2020 03:56:41 PM TESTCASES:The interconnect IPv4 dhcp address: 15.186.27.110
+02/27/2020 03:56:41 PM TESTCASES:##################################################################
+02/27/2020 03:56:41 PM TESTCASES:The interconnect location: MXQ82705W8, interconnect 3
+02/27/2020 03:56:41 PM TESTCASES:The interconnect model: HPE Synergy 50Gb Satellite Link Module
+02/27/2020 03:56:41 PM TESTCASES:The interconnect firmware: 1.0.0.1002
+02/27/2020 03:56:41 PM TESTCASES:The interconnect state: Configured
+02/27/2020 03:56:41 PM TESTCASES:The interconnect SN: TW2748001M
+02/27/2020 03:56:41 PM TESTCASES:The interconnect PN: 867793-B21
+02/27/2020 03:56:41 PM TESTCASES:##################################################################
+02/27/2020 03:56:42 PM TESTCASES:Server profile name is: SP-ENC1-NITRO-BAY2
+02/27/2020 03:56:42 PM TESTCASES:Server profile name is: SP-ENC1-NITRO-BAY3
+02/27/2020 03:56:42 PM TESTCASES:Server profile name is: SP-ENC1-POTASH-BAY1
+02/27/2020 03:56:42 PM TESTCASES:Server profile name is: SP-ENC2-NITRO-BAY2
+02/27/2020 03:56:42 PM TESTCASES:Server profile name is: SP-ENC2-POTASH-BAY1
+02/27/2020 03:56:42 PM TESTCASES:Server profile name is: SP-ENC2-POTASH-BAY3
+02/27/2020 03:56:42 PM TESTCASES:The number of interconnects: 8
+02/27/2020 03:56:42 PM TESTCASES:The number of servers: 6
+02/27/2020 03:56:42 PM TESTCASES:The number of enclosures:  2
+02/27/2020 03:56:42 PM TESTCASES:The number of server profiles: 6
