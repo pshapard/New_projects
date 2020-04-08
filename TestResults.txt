@@ -1,0 +1,580 @@
+03_28_2020: World: Total cases: 618043, Total deaths: 28823, Death rate: 4.66%
+03_28_2020: Usa: Total cases: 104865, Total deaths: 1709, Death rate: 1.63%
+03_28_2020: Spain: Total cases: 72248, Total deaths: 5690, Death rate: 7.88%
+03_28_2020: Italy: Total cases: 92472, Total deaths: 10023, Death rate: 10.84%
+03_28_2020: Germany: Total cases: 56202, Total deaths: 403, Death rate: 0.72%
+03_28_2020: France: Total cases: 37575, Total deaths: 2314, Death rate: 6.16%
+03_28_2020: Iran: Total cases: 35408, Total deaths: 2517, Death rate: 7.11%
+03_28_2020: Uk: Total cases: 17089, Total deaths: 1019, Death rate: 5.96%
+03_28_2020: Switzerland: Total cases: 13377, Total deaths: 242, Death rate: 1.81%
+03_28_2020: Usa: Total cases: 123750, Total deaths: 2227, Death rate: 1.80%
+03_29_2020: Usa: Total cases: 124217, Total deaths: 2185, Death rate: 1.76%
+03_29_2020: World: Total cases: 663828, Total deaths: 30822, Death rate: 4.64%
+03_29_2020: Usa: Total cases: 124686, Total deaths: 2191, Death rate: 1.76%
+03_29_2020: World: Total cases: 679977, Total deaths: 31700, Death rate: 4.66%
+03_29_2020: Italy: Total cases: 97689, Total deaths: 10779, Death rate: 11.03%
+03_29_2020: Spain: Total cases: 78799, Total deaths: 6606, Death rate: 8.38%
+03_29_2020: Iran: Total cases: 38309, Total deaths: 2640, Death rate: 6.89%
+03_29_2020: Uk: Total cases: 19522, Total deaths: 1228, Death rate: 6.29%
+03_29_2020: France: Total cases: 40174, Total deaths: 2606, Death rate: 6.49%
+03_29_2020: Germany: Total cases: 61164, Total deaths: 490, Death rate: 0.80%
+03_29_2020: Usa: Total cases: 140990, Total deaths: 2457, Death rate: 1.74%
+03_29_2020: Usa: Total cases: 140990, Total deaths: 2457, Death rate: 1.74%
+03_29_2020: Italy: Total cases: 97689, Total deaths: 10779, Death rate: 11.03%
+03_29_2020: Spain: Total cases: 80110, Total deaths: 6803, Death rate: 8.49%
+03_30_2020: World: Total cases: 760337, Total deaths: 36862, Death rate: 4.85%
+03_30_2020: Usa: Total cases: 152631, Total deaths: 2817, Death rate: 1.85%
+03_30_2020: Italy: Total cases: 101739, Total deaths: 11591, Death rate: 11.39%
+03_30_2020: Spain: Total cases: 85195, Total deaths: 7340, Death rate: 8.62%
+03_30_2020: Germany: Total cases: 63929, Total deaths: 560, Death rate: 0.88%
+03_30_2020: Iran: Total cases: 41495, Total deaths: 2757, Death rate: 6.64%
+03_30_2020: France: Total cases: 40495, Total deaths: 2757, Death rate: 6.81%
+03_30_2020: Uk: Total cases: 22141, Total deaths: 1408, Death rate: 6.36%
+
+03_31_2020: World: Total cases: 809138, Total deaths: 39559, Death rate: 4.89%
+03_31_2020: Usa: Total cases: 165392, Total deaths: 3182, Death rate: 1.92%
+03_31_2020: Italy: Total cases: 101739, Total deaths: 11591, Death rate: 11.39%
+03_31_2020: Spain: Total cases: 94417, Total deaths: 8269, Death rate: 8.76%
+03_31_2020: Germany: Total cases: 68180, Total deaths: 682, Death rate: 1.00%
+03_31_2020: Iran: Total cases: 44605, Total deaths: 2898, Death rate: 6.50%
+03_31_2020: France: Total cases: 44550, Total deaths: 3024, Death rate: 6.79%
+03_31_2020: Uk: Total cases: 25150, Total deaths: 1789, Death rate: 7.11%
+
+03_31_2020: World: Total cases: 846156, Total deaths: 41494, Death rate: 4.90%
+03_31_2020: Usa: Total cases: 181099, Total deaths: 3606, Death rate: 1.99%
+03_31_2020: Usa: Total cases: 188267, Total deaths: 3882, Death rate: 2.06%
+03_31_2020: Italy: Total cases: 105792, Total deaths: 12428, Death rate: 11.75%
+03_31_2020: Spain: Total cases: 95923, Total deaths: 8464, Death rate: 8.82%
+03_31_2020: Germany: Total cases: 71808, Total deaths: 775, Death rate: 1.08%
+03_31_2020: Framce: Total cases: 52128, Total deaths: 3523, Death rate: 6.76%
+03_31_2020: Iran: Total cases: 44605, Total deaths: 2898, Death rate: 6.50%
+03_31_2020: Uk: Total cases: 25150, Total deaths: 1789, Death rate: 7.11%
+03_31_2020: World: Total cases: 858892, Total deaths: 42158, Death rate: 4.91%
+03_31_2020: Usa: Total cases: 188578, Total deaths: 3890, Death rate: 2.06%
+03_31_2020: Italy: Total cases: 105792, Total deaths: 12428, Death rate: 11.75%
+03_31_2020: Spain: Total cases: 95923, Total deaths: 8464, Death rate: 8.82%
+03_31_2020: Germany: Total cases: 71808, Total deaths: 775, Death rate: 1.08%
+03_31_2020: France: Total cases: 52128, Total deaths: 3523, Death rate: 6.76%
+03_31_2020: Iran: Total cases: 44605, Total deaths: 2898, Death rate: 6.50%
+03_31_2020: Uk: Total cases: 25150, Total deaths: 1789, Death rate: 7.11%
+04_01_2020: World: Total cases: 886346, Total deaths: 44241, Death rate: 4.99%
+04_01_2020: Usa: Total cases: 190256, Total deaths: 4113, Death rate: 2.16%
+04_01_2020: Italy: Total cases: 105792, Total deaths: 12428, Death rate: 11.75%
+04_01_2020: Spain: Total cases: 102136, Total deaths: 9053, Death rate: 8.86%
+04_01_2020: Germany: Total cases: 74508, Total deaths: 821, Death rate: 1.10%
+04_01_2020: France: Total cases: 52128, Total deaths: 3523, Death rate: 6.76%
+04_01_2020: Iran: Total cases: 47593, Total deaths: 3036, Death rate: 6.38%
+04_01_2020: Uk: Total cases: 29474, Total deaths: 2352, Death rate: 7.98%
+04_01_2020: World: Total cases: 935582, Total deaths: 47232, Death rate: 5.05%
+04_01_2020: Usa: Total cases: 215081, Total deaths: 5109, Death rate: 2.38%
+04_01_2020: Italy: Total cases: 110574, Total deaths: 13155, Death rate: 11.90%
+04_01_2020: Spain: Total cases: 104118, Total deaths: 9387, Death rate: 9.02%
+04_01_2020: Germany: Total cases: 77981, Total deaths: 931, Death rate: 1.19%
+04_01_2020: France: Total cases: 56989, Total deaths: 4032, Death rate: 7.08%
+04_01_2020: Iran: Total cases: 47593, Total deaths: 3036, Death rate: 6.38%
+04_01_2020: Uk: Total cases: 29474, Total deaths: 2352, Death rate: 7.98%
+04_02_2020: World: Total cases: 936170, Total deaths: 47249, Death rate: 5.05%
+04_02_2020: Usa: Total cases: 215300, Total deaths: 5110, Death rate: 2.37%
+04_02_2020: Usa: Total cases: 215300, Total deaths: 5110, Death rate: 2.37%
+04_02_2020: World: Total cases: 966939, Total deaths: 49295, Death rate: 5.10%
+04_02_2020: Usa: Total cases: 217661, Total deaths: 5153, Death rate: 2.37%
+04_02_2020: Italy: Total cases: 110574, Total deaths: 13155, Death rate: 11.90%
+04_02_2020: Spain: Total cases: 110238, Total deaths: 10003, Death rate: 9.07%
+04_02_2020: Germany: Total cases: 81728, Total deaths: 997, Death rate: 1.22%
+04_02_2020: France: Total cases: 56989, Total deaths: 4032, Death rate: 7.08%
+04_02_2020: Iran: Total cases: 50468, Total deaths: 3160, Death rate: 6.26%
+04_02_2020: Uk: Total cases: 33718, Total deaths: 2921, Death rate: 8.66%
+
+
+04_02_2020: World: Total cases: 1015466, Total deaths: 53190, Death rate: 5.24%
+04_02_2020: Usa: Total cases: 245066, Total deaths: 6075, Death rate: 2.48%
+04_02_2020: Italy: Total cases: 115242, Total deaths: 13915, Death rate: 12.07%
+04_02_2020: Spain: Total cases: 112065, Total deaths: 10348, Death rate: 9.23%
+04_02_2020: Germany: Total cases: 84794, Total deaths: 1107, Death rate: 1.31%
+04_02_2020: France: Total cases: 59105, Total deaths: 5387, Death rate: 9.11%
+04_02_2020: Iran: Total cases: 50468, Total deaths: 3160, Death rate: 6.26%
+04_02_2020: Uk: Total cases: 33718, Total deaths: 2921, Death rate: 8.66%
+
+
+04_03_2020: World: Total cases: 1068522, Total deaths: 56794, Death rate: 5.32%
+04_03_2020: Us: Total cases: 259832, Total deaths: 6605, Death rate: 2.54%
+04_03_2020: World: Total cases: 1068544, Total deaths: 56794, Death rate: 5.32%
+04_03_2020: World: Total cases: 1072860, Total deaths: 56904, Death rate: 5.30%
+04_03_2020: Us: Total cases: 264159, Total deaths: 6714, Death rate: 2.54%
+04_03_2020: World: Total cases: 1074053, Total deaths: 56975, Death rate: 5.30%
+04_03_2020: Us: Total cases: 265306, Total deaths: 6774, Death rate: 2.55%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: World: Total cases: 1074197, Total deaths: 56982, Death rate: 5.30%
+04_03_2020: Us: Total cases: 265417, Total deaths: 6780, Death rate: 2.55%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: Us: Total cases: 265506, Total deaths: 6786, Death rate: 2.56%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: World: Total cases: 1074253, Total deaths: 56987, Death rate: 5.30%
+04_03_2020: Us: Total cases: 265506, Total deaths: 6786, Death rate: 2.56%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: World: Total cases: 1074253, Total deaths: 56987, Death rate: 5.30%
+04_03_2020: Us: Total cases: 265506, Total deaths: 6786, Death rate: 2.56%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: World: Total cases: 1074253, Total deaths: 56987, Death rate: 5.30%
+04_03_2020: Us: Total cases: 265506, Total deaths: 6786, Death rate: 2.56%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 59105, Total deaths: 5387, Death rate: 9.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 89838, Total deaths: 1230, Death rate: 1.37%
+04_03_2020: World: Total cases: 1074254, Total deaths: 56987, Death rate: 5.30%
+04_03_2020: Us: Total cases: 265506, Total deaths: 6786, Death rate: 2.56%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 59105, Total deaths: 5387, Death rate: 9.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 89838, Total deaths: 1230, Death rate: 1.37%
+04_03_2020: Spain: Total cases: 117710, Total deaths: 10935, Death rate: 9.29%
+04_03_2020: World: Total cases: 1074280, Total deaths: 56987, Death rate: 5.30%
+04_03_2020: Us: Total cases: 265506, Total deaths: 6786, Death rate: 2.56%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 59105, Total deaths: 5387, Death rate: 9.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 89838, Total deaths: 1230, Death rate: 1.37%
+04_03_2020: Spain: Total cases: 117710, Total deaths: 10935, Death rate: 9.29%
+04_03_2020: World: Total cases: 1083211, Total deaths: 58149, Death rate: 5.37%
+04_03_2020: Us: Total cases: 266279, Total deaths: 6803, Death rate: 2.55%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 90964, Total deaths: 1234, Death rate: 1.36%
+04_03_2020: Spain: Total cases: 117710, Total deaths: 10935, Death rate: 9.29%
+04_03_2020: World: Total cases: 1093025, Total deaths: 58728, Death rate: 5.37%
+04_03_2020: Us: Total cases: 272925, Total deaths: 7004, Death rate: 2.57%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_03_2020: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_03_2020: World: Total cases: 1096682, Total deaths: 59128, Death rate: 5.39%
+04_03_2020: Us: Total cases: 276037, Total deaths: 7385, Death rate: 2.68%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_03_2020: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_03_2020: World: Total cases: 1097810, Total deaths: 59140, Death rate: 5.39%
+04_03_2020: Us: Total cases: 276965, Total deaths: 7391, Death rate: 2.67%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_03_2020: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_03_2020: World: Total cases: 1097810, Total deaths: 59140, Death rate: 5.39%
+04_03_2020: Us: Total cases: 276965, Total deaths: 7391, Death rate: 2.67%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_03_2020: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_03_2020: World: Total cases: 1097810, Total deaths: 59140, Death rate: 5.39%
+04_03_2020: Us: Total cases: 276965, Total deaths: 7391, Death rate: 2.67%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_03_2020: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_03_2020: World: Total cases: 1097810, Total deaths: 59140, Death rate: 5.39%
+04_03_2020: Us: Total cases: 276965, Total deaths: 7391, Death rate: 2.67%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: World: Total cases: 1097810, Total deaths: 59140, Death rate: 5.39%
+04_03_2020: Us: Total cases: 276965, Total deaths: 7391, Death rate: 2.67%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_03_2020: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_03_2020: World: Total cases: 1098025, Total deaths: 59145, Death rate: 5.39%
+04_03_2020: Us: Total cases: 277161, Total deaths: 7392, Death rate: 2.67%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_03_2020: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_03_2020: World: Total cases: 1098434, Total deaths: 59160, Death rate: 5.39%
+04_03_2020: Us: Total cases: 277161, Total deaths: 7392, Death rate: 2.67%
+04_03_2020: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_03_2020: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+
+
+04_03_2020_231538: World: Total cases: 1098762, Total deaths: 59172, Death rate: 5.39%
+04_03_2020_231538: Us: Total cases: 277467, Total deaths: 7402, Death rate: 2.67%
+04_03_2020_231538: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020_231538: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020_231538: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020_231538: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020_231538: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_03_2020_231538: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_03_2020_231538: World: Total cases: 1099960, Total deaths: 59197, Death rate: 5.38%
+04_03_2020_231538: Us: Total cases: 277475, Total deaths: 7402, Death rate: 2.67%
+04_03_2020_231538: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_03_2020_231538: France: Total cases: 64338, Total deaths: 6507, Death rate: 10.11%
+04_03_2020_231538: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_03_2020_231538: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_03_2020_231538: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_03_2020_231538: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_04_2020_023227: World: Total cases: 1118398, Total deaths: 59224, Death rate: 5.30%
+04_04_2020_023227: Us: Total cases: 277522, Total deaths: 7403, Death rate: 2.67%
+04_04_2020_023227: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_04_2020_023227: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_023227: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_04_2020_023227: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_04_2020_023227: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_04_2020_023227: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_04_2020_023227: World: Total cases: 1119702, Total deaths: 59245, Death rate: 5.29%
+04_04_2020_023227: Us: Total cases: 277522, Total deaths: 7403, Death rate: 2.67%
+04_04_2020_023227: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_04_2020_023227: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_023227: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_04_2020_023227: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_04_2020_023227: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_04_2020_023227: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_04_2020_023227: World: Total cases: 1121991, Total deaths: 59403, Death rate: 5.29%
+04_04_2020_023227: Us: Total cases: 277522, Total deaths: 7403, Death rate: 2.67%
+04_04_2020_023227: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_04_2020_023227: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_023227: Iran: Total cases: 53183, Total deaths: 3294, Death rate: 6.19%
+04_04_2020_023227: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_04_2020_023227: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_04_2020_023227: Spain: Total cases: 119199, Total deaths: 11198, Death rate: 9.39%
+04_04_2020_023227: World: Total cases: 1130576, Total deaths: 60128, Death rate: 5.32%
+04_04_2020_023227: Us: Total cases: 277522, Total deaths: 7403, Death rate: 2.67%
+04_04_2020_023227: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_04_2020_023227: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_023227: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_023227: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_04_2020_023227: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_04_2020_023227: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_023227: World: Total cases: 1133377, Total deaths: 60375, Death rate: 5.33%
+04_04_2020_023227: Us: Total cases: 277533, Total deaths: 7403, Death rate: 2.67%
+04_04_2020_023227: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_04_2020_023227: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_023227: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_023227: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_04_2020_023227: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_04_2020_023227: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_023227: World: Total cases: 1133815, Total deaths: 60398, Death rate: 5.33%
+04_04_2020_023227: Us: Total cases: 277607, Total deaths: 7406, Death rate: 2.67%
+04_04_2020_023227: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_04_2020_023227: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_023227: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_023227: Uk: Total cases: 38168, Total deaths: 3605, Death rate: 9.45%
+04_04_2020_023227: Germany: Total cases: 91159, Total deaths: 1275, Death rate: 1.40%
+04_04_2020_023227: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_023227: World: Total cases: 1138646, Total deaths: 61142, Death rate: 5.37%
+04_04_2020_023227: Us: Total cases: 277607, Total deaths: 7406, Death rate: 2.67%
+04_04_2020_023227: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_04_2020_023227: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_023227: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_023227: Uk: Total cases: 41903, Total deaths: 4313, Death rate: 10.29%
+04_04_2020_023227: Germany: Total cases: 91589, Total deaths: 1293, Death rate: 1.41%
+04_04_2020_023227: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_023227: World: Total cases: 1141069, Total deaths: 61199, Death rate: 5.36%
+04_04_2020_023227: Us: Total cases: 279355, Total deaths: 7451, Death rate: 2.67%
+04_04_2020_023227: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_04_2020_023227: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_023227: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_023227: Uk: Total cases: 41903, Total deaths: 4313, Death rate: 10.29%
+04_04_2020_023227: Germany: Total cases: 92081, Total deaths: 1299, Death rate: 1.41%
+04_04_2020_023227: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_023227: World: Total cases: 1153142, Total deaths: 61657, Death rate: 5.35%
+04_04_2020_023227: Us: Total cases: 290920, Total deaths: 7844, Death rate: 2.70%
+04_04_2020_023227: Italy: Total cases: 119827, Total deaths: 14681, Death rate: 12.25%
+04_04_2020_023227: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_023227: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_023227: Uk: Total cases: 41903, Total deaths: 4313, Death rate: 10.29%
+04_04_2020_023227: Germany: Total cases: 92150, Total deaths: 1330, Death rate: 1.44%
+04_04_2020_023227: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_023227: World: Total cases: 1162256, Total deaths: 62444, Death rate: 5.37%
+04_04_2020_023227: Us: Total cases: 293481, Total deaths: 7896, Death rate: 2.69%
+04_04_2020_023227: Italy: Total cases: 124632, Total deaths: 15362, Death rate: 12.33%
+04_04_2020_023227: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_023227: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_023227: Uk: Total cases: 41903, Total deaths: 4313, Death rate: 10.29%
+04_04_2020_023227: Germany: Total cases: 92150, Total deaths: 1330, Death rate: 1.44%
+04_04_2020_023227: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_121523: World: Total cases: 1169408, Total deaths: 62735, Death rate: 5.36%
+04_04_2020_121523: Us: Total cases: 300106, Total deaths: 8141, Death rate: 2.71%
+04_04_2020_121523: Italy: Total cases: 124632, Total deaths: 15362, Death rate: 12.33%
+04_04_2020_121524: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_121524: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_121524: Uk: Total cases: 41903, Total deaths: 4313, Death rate: 10.29%
+04_04_2020_121525: Germany: Total cases: 92150, Total deaths: 1330, Death rate: 1.44%
+04_04_2020_121525: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_121832: World: Total cases: 1169478, Total deaths: 62735, Death rate: 5.36%
+04_04_2020_121832: Us: Total cases: 300106, Total deaths: 8141, Death rate: 2.71%
+04_04_2020_121832: Italy: Total cases: 124632, Total deaths: 15362, Death rate: 12.33%
+04_04_2020_121833: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_121833: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_121833: Uk: Total cases: 41903, Total deaths: 4313, Death rate: 10.29%
+04_04_2020_121833: Germany: Total cases: 92150, Total deaths: 1330, Death rate: 1.44%
+04_04_2020_121834: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_121936: World: Total cases: 1169478, Total deaths: 62735, Death rate: 5.36%
+04_04_2020_121936: Us: Total cases: 300106, Total deaths: 8141, Death rate: 2.71%
+04_04_2020_121936: Italy: Total cases: 124632, Total deaths: 15362, Death rate: 12.33%
+04_04_2020_121937: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_121937: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_121937: Uk: Total cases: 41903, Total deaths: 4313, Death rate: 10.29%
+04_04_2020_121938: Germany: Total cases: 92150, Total deaths: 1330, Death rate: 1.44%
+04_04_2020_121938: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_122040: World: Total cases: 1169552, Total deaths: 62735, Death rate: 5.36%
+04_04_2020_122040: Us: Total cases: 300148, Total deaths: 8141, Death rate: 2.71%
+04_04_2020_122041: Italy: Total cases: 124632, Total deaths: 15362, Death rate: 12.33%
+04_04_2020_122041: France: Total cases: 82165, Total deaths: 6507, Death rate: 7.92%
+04_04_2020_122041: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_122042: Uk: Total cases: 41903, Total deaths: 4313, Death rate: 10.29%
+04_04_2020_122042: Germany: Total cases: 92150, Total deaths: 1330, Death rate: 1.44%
+04_04_2020_122042: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_140801: World: Total cases: 1188159, Total deaths: 64060, Death rate: 5.39%
+04_04_2020_140801: Us: Total cases: 302819, Total deaths: 8237, Death rate: 2.72%
+04_04_2020_140802: Italy: Total cases: 124632, Total deaths: 15362, Death rate: 12.33%
+04_04_2020_140802: France: Total cases: 89953, Total deaths: 7560, Death rate: 8.40%
+04_04_2020_140802: Iran: Total cases: 55743, Total deaths: 3452, Death rate: 6.19%
+04_04_2020_140802: Uk: Total cases: 41903, Total deaths: 4313, Death rate: 10.29%
+04_04_2020_140803: Germany: Total cases: 95637, Total deaths: 1395, Death rate: 1.46%
+04_04_2020_140803: Spain: Total cases: 124736, Total deaths: 11744, Death rate: 9.42%
+04_04_2020_150118: World: Total cases: 1192619, Total deaths: 64227, Total Reovered: 246063, Death rate: 5.39%, Recovery Rate: 20.63
+04_04_2020_150118: Us: Total cases: 305934, Total deaths: 8306, Total Reovered: 14686, Death rate: 2.71%, Recovery Rate: 4.80
+04_04_2020_150118: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04_04_2020_150119: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04_04_2020_150119: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04_04_2020_150119: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04_04_2020_150120: Germany: Total cases: 95637, Total deaths: 1395, Total Reovered: 26400, Death rate: 1.46%, Recovery Rate: 27.60
+04_04_2020_150120: Spain: Total cases: 124736, Total deaths: 11744, Total Reovered: 34219, Death rate: 9.42%, Recovery Rate: 27.43
+04_04_2020_153122: World: Total cases: 1192962, Total deaths: 64236, Total Reovered: 246110, Death rate: 5.38%, Recovery Rate: 20.63
+04_04_2020_153122: Us: Total cases: 306145, Total deaths: 8310, Total Reovered: 14686, Death rate: 2.71%, Recovery Rate: 4.80
+04_04_2020_153123: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04_04_2020_153123: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04_04_2020_153123: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04_04_2020_153123: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04_04_2020_153123: Germany: Total cases: 95637, Total deaths: 1395, Total Reovered: 26400, Death rate: 1.46%, Recovery Rate: 27.60
+04_04_2020_153124: Spain: Total cases: 124736, Total deaths: 11744, Total Reovered: 34219, Death rate: 9.42%, Recovery Rate: 27.43
+04_04_2020_160126: World: Total cases: 1193654, Total deaths: 64278, Total Reovered: 246110, Death rate: 5.38%, Recovery Rate: 20.62
+04_04_2020_160126: Us: Total cases: 306768, Total deaths: 8347, Total Reovered: 14686, Death rate: 2.72%, Recovery Rate: 4.79
+04_04_2020_160126: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04_04_2020_160127: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04_04_2020_160127: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04_04_2020_160127: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04_04_2020_160127: Germany: Total cases: 95637, Total deaths: 1395, Total Reovered: 26400, Death rate: 1.46%, Recovery Rate: 27.60
+04_04_2020_160128: Spain: Total cases: 124736, Total deaths: 11744, Total Reovered: 34219, Death rate: 9.42%, Recovery Rate: 27.43
+04_04_2020_163130: World: Total cases: 1194050, Total deaths: 64389, Total Reovered: 246110, Death rate: 5.39%, Recovery Rate: 20.61
+04_04_2020_163130: Us: Total cases: 306997, Total deaths: 8350, Total Reovered: 14686, Death rate: 2.72%, Recovery Rate: 4.78
+04_04_2020_163130: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04_04_2020_163131: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04_04_2020_163131: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04_04_2020_163131: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04_04_2020_163131: Germany: Total cases: 95648, Total deaths: 1428, Total Reovered: 26400, Death rate: 1.49%, Recovery Rate: 27.60
+04_04_2020_163132: Spain: Total cases: 124870, Total deaths: 11818, Total Reovered: 34219, Death rate: 9.46%, Recovery Rate: 27.40
+04_04_2020_170133: World: Total cases: 1196108, Total deaths: 64546, Total Reovered: 246110, Death rate: 5.40%, Recovery Rate: 20.58
+04_04_2020_170133: Us: Total cases: 307732, Total deaths: 8377, Total Reovered: 14686, Death rate: 2.72%, Recovery Rate: 4.77
+04_04_2020_170134: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04_04_2020_170134: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04_04_2020_170134: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04_04_2020_170134: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04_04_2020_170135: Germany: Total cases: 95648, Total deaths: 1428, Total Reovered: 26400, Death rate: 1.49%, Recovery Rate: 27.60
+04_04_2020_170135: Spain: Total cases: 126168, Total deaths: 11947, Total Reovered: 34219, Death rate: 9.47%, Recovery Rate: 27.12
+04/04/2020_18:12:25: World: Total cases: 1199064, Total deaths: 64650, Total Reovered: 246166, Death rate: 5.39%, Recovery Rate: 20.53
+04/04/2020_18:12:26: Us: Total cases: 309728, Total deaths: 8441, Total Reovered: 14741, Death rate: 2.73%, Recovery Rate: 4.76
+04/04/2020_18:12:26: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04/04/2020_18:12:26: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04/04/2020_18:12:27: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04/04/2020_18:12:27: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04/04/2020_18:12:27: Germany: Total cases: 96092, Total deaths: 1444, Total Reovered: 26400, Death rate: 1.50%, Recovery Rate: 27.47
+04/04/2020_18:12:28: Spain: Total cases: 126168, Total deaths: 11947, Total Reovered: 34219, Death rate: 9.47%, Recovery Rate: 27.12
+04/04/2020_18:14:27: World: Total cases: 1199064, Total deaths: 64650, Total Reovered: 246166, Death rate: 5.39%, Recovery Rate: 20.53
+04/04/2020_18:14:28: Us: Total cases: 309728, Total deaths: 8441, Total Reovered: 14741, Death rate: 2.73%, Recovery Rate: 4.76
+04/04/2020_18:14:28: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04/04/2020_18:14:29: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04/04/2020_18:14:29: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04/04/2020_18:14:29: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04/04/2020_18:14:30: Germany: Total cases: 96092, Total deaths: 1444, Total Reovered: 26400, Death rate: 1.50%, Recovery Rate: 27.47
+04/04/2020_18:14:30: Spain: Total cases: 126168, Total deaths: 11947, Total Reovered: 34219, Death rate: 9.47%, Recovery Rate: 27.12
+04/04/2020_20:14:34: World: Total cases: 1201473, Total deaths: 64691, Total Reovered: 246467, Death rate: 5.38%, Recovery Rate: 20.51
+04/04/2020_20:14:35: Us: Total cases: 311357, Total deaths: 8452, Total Reovered: 14825, Death rate: 2.71%, Recovery Rate: 4.76
+04/04/2020_20:14:35: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04/04/2020_20:14:35: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04/04/2020_20:14:36: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04/04/2020_20:14:36: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04/04/2020_20:14:36: Germany: Total cases: 96092, Total deaths: 1444, Total Reovered: 26400, Death rate: 1.50%, Recovery Rate: 27.47
+04/04/2020_20:14:37: Spain: Total cases: 126168, Total deaths: 11947, Total Reovered: 34219, Death rate: 9.47%, Recovery Rate: 27.12
+04/04/2020_22:14:39: World: Total cases: 1201964, Total deaths: 64727, Total Reovered: 246638, Death rate: 5.39%, Recovery Rate: 20.52
+04/04/2020_22:14:40: Us: Total cases: 311357, Total deaths: 8452, Total Reovered: 14825, Death rate: 2.71%, Recovery Rate: 4.76
+04/04/2020_22:14:40: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04/04/2020_22:14:40: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04/04/2020_22:14:40: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04/04/2020_22:14:41: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04/04/2020_22:14:41: Germany: Total cases: 96092, Total deaths: 1444, Total Reovered: 26400, Death rate: 1.50%, Recovery Rate: 27.47
+04/04/2020_22:14:41: Spain: Total cases: 126168, Total deaths: 11947, Total Reovered: 34219, Death rate: 9.47%, Recovery Rate: 27.12
+04/05/2020_00:14:45: World: Total cases: 1202715, Total deaths: 64734, Total Reovered: 246648, Death rate: 5.38%, Recovery Rate: 20.51
+04/05/2020_00:14:45: Us: Total cases: 311635, Total deaths: 8454, Total Reovered: 14825, Death rate: 2.71%, Recovery Rate: 4.76
+04/05/2020_00:14:46: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04/05/2020_00:14:46: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04/05/2020_00:14:46: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04/05/2020_00:14:47: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04/05/2020_00:14:47: Germany: Total cases: 96092, Total deaths: 1444, Total Reovered: 26400, Death rate: 1.50%, Recovery Rate: 27.47
+04/05/2020_00:14:48: Spain: Total cases: 126168, Total deaths: 11947, Total Reovered: 34219, Death rate: 9.47%, Recovery Rate: 27.12
+04/05/2020_02:15:35: World: Total cases: 1203292, Total deaths: 64747, Total Reovered: 246798, Death rate: 5.38%, Recovery Rate: 20.51
+04/05/2020_02:15:36: Us: Total cases: 311637, Total deaths: 8454, Total Reovered: 14828, Death rate: 2.71%, Recovery Rate: 4.76
+04/05/2020_02:15:36: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04/05/2020_02:15:36: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04/05/2020_02:15:37: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04/05/2020_02:15:37: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04/05/2020_02:15:37: Germany: Total cases: 96092, Total deaths: 1444, Total Reovered: 26400, Death rate: 1.50%, Recovery Rate: 27.47
+04/05/2020_02:15:38: Spain: Total cases: 126168, Total deaths: 11947, Total Reovered: 34219, Death rate: 9.47%, Recovery Rate: 27.12
+04/05/2020_04:15:45: World: Total cases: 1205700, Total deaths: 64972, Total Reovered: 247948, Death rate: 5.39%, Recovery Rate: 20.56
+04/05/2020_04:15:45: Us: Total cases: 311637, Total deaths: 8454, Total Reovered: 14828, Death rate: 2.71%, Recovery Rate: 4.76
+04/05/2020_04:15:46: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04/05/2020_04:15:46: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04/05/2020_04:15:46: Iran: Total cases: 55743, Total deaths: 3452, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 35.41
+04/05/2020_04:15:47: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04/05/2020_04:15:47: Germany: Total cases: 96092, Total deaths: 1444, Total Reovered: 26400, Death rate: 1.50%, Recovery Rate: 27.47
+04/05/2020_04:15:47: Spain: Total cases: 126168, Total deaths: 11947, Total Reovered: 34219, Death rate: 9.47%, Recovery Rate: 27.12
+04/05/2020_06:15:50: World: Total cases: 1214913, Total deaths: 65626, Total Reovered: 253670, Death rate: 5.40%, Recovery Rate: 20.88
+04/05/2020_06:15:51: Us: Total cases: 311637, Total deaths: 8454, Total Reovered: 14828, Death rate: 2.71%, Recovery Rate: 4.76
+04/05/2020_06:15:51: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04/05/2020_06:15:52: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04/05/2020_06:15:52: Iran: Total cases: 58226, Total deaths: 3603, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 33.90
+04/05/2020_06:15:52: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04/05/2020_06:15:53: Germany: Total cases: 96108, Total deaths: 1446, Total Reovered: 26400, Death rate: 1.50%, Recovery Rate: 27.47
+04/05/2020_06:15:53: Spain: Total cases: 130759, Total deaths: 12418, Total Reovered: 38080, Death rate: 9.50%, Recovery Rate: 29.12
+04/05/2020_08:15:57: World: Total cases: 1218126, Total deaths: 65841, Total Reovered: 253821, Death rate: 5.41%, Recovery Rate: 20.84
+04/05/2020_08:15:57: Us: Total cases: 311637, Total deaths: 8454, Total Reovered: 14828, Death rate: 2.71%, Recovery Rate: 4.76
+04/05/2020_08:15:57: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04/05/2020_08:15:58: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04/05/2020_08:15:58: Iran: Total cases: 58226, Total deaths: 3603, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 33.90
+04/05/2020_08:15:58: Uk: Total cases: 41903, Total deaths: 4313, Total Reovered: 135, Death rate: 10.29%, Recovery Rate: 0.32
+04/05/2020_08:15:58: Germany: Total cases: 96471, Total deaths: 1447, Total Reovered: 26400, Death rate: 1.50%, Recovery Rate: 27.37
+04/05/2020_08:15:59: Spain: Total cases: 130759, Total deaths: 12418, Total Reovered: 38080, Death rate: 9.50%, Recovery Rate: 29.12
+04/05/2020_10:16:03: World: Total cases: 1235478, Total deaths: 67195, Total Reovered: 255589, Death rate: 5.44%, Recovery Rate: 20.69
+04/05/2020_10:16:03: Us: Total cases: 321107, Total deaths: 9128, Total Reovered: 16553, Death rate: 2.84%, Recovery Rate: 5.15
+04/05/2020_10:16:04: Italy: Total cases: 124632, Total deaths: 15362, Total Reovered: 20996, Death rate: 12.33%, Recovery Rate: 16.85
+04/05/2020_10:16:04: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04/05/2020_10:16:04: Iran: Total cases: 58226, Total deaths: 3603, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 33.90
+04/05/2020_10:16:05: Uk: Total cases: 47806, Total deaths: 4934, Total Reovered: 135, Death rate: 10.32%, Recovery Rate: 0.28
+04/05/2020_10:16:05: Germany: Total cases: 97351, Total deaths: 1479, Total Reovered: 26400, Death rate: 1.52%, Recovery Rate: 27.12
+04/05/2020_10:16:05: Spain: Total cases: 130759, Total deaths: 12418, Total Reovered: 38080, Death rate: 9.50%, Recovery Rate: 29.12
+04/05/2020_12:16:09: World: Total cases: 1252982, Total deaths: 68149, Total Reovered: 257139, Death rate: 5.44%, Recovery Rate: 20.52
+04/05/2020_12:16:10: Us: Total cases: 327848, Total deaths: 9325, Total Reovered: 16700, Death rate: 2.84%, Recovery Rate: 5.09
+04/05/2020_12:16:10: Italy: Total cases: 128948, Total deaths: 15887, Total Reovered: 21815, Death rate: 12.32%, Recovery Rate: 16.92
+04/05/2020_12:16:10: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16
+04/05/2020_12:16:11: Iran: Total cases: 58226, Total deaths: 3603, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 33.90
+04/05/2020_12:16:11: Uk: Total cases: 47806, Total deaths: 4934, Total Reovered: 135, Death rate: 10.32%, Recovery Rate: 0.28
+04/05/2020_12:16:11: Germany: Total cases: 98765, Total deaths: 1524, Total Reovered: 26400, Death rate: 1.54%, Recovery Rate: 26.73
+04/05/2020_12:16:12: Spain: Total cases: 130759, Total deaths: 12418, Total Reovered: 38080, Death rate: 9.50%, Recovery Rate: 29.12
+04/05/2020_13:17:06: World: Total cases: 1254464, Total deaths: 68184, Total Reovered: 259544, Death rate: 5.44%, Recovery Rate: 20.69%
+04/05/2020_13:17:07: Us: Total cases: 327920, Total deaths: 9326, Total Reovered: 16700, Death rate: 2.84%, Recovery Rate: 5.09%
+04/05/2020_13:17:07: Italy: Total cases: 128948, Total deaths: 15887, Total Reovered: 21815, Death rate: 12.32%, Recovery Rate: 16.92%
+04/05/2020_13:17:07: France: Total cases: 89953, Total deaths: 7560, Total Reovered: 15438, Death rate: 8.40%, Recovery Rate: 17.16%
+04/05/2020_13:17:08: Iran: Total cases: 58226, Total deaths: 3603, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 33.90%
+04/05/2020_13:17:08: Uk: Total cases: 47806, Total deaths: 4934, Total Reovered: 135, Death rate: 10.32%, Recovery Rate: 0.28%
+04/05/2020_13:17:08: Germany: Total cases: 98772, Total deaths: 1527, Total Reovered: 28700, Death rate: 1.55%, Recovery Rate: 29.06%
+04/05/2020_13:17:08: Spain: Total cases: 130759, Total deaths: 12418, Total Reovered: 38080, Death rate: 9.50%, Recovery Rate: 29.12%
+04/05/2020_16:17:14: World: Total cases: 1266782, Total deaths: 69177, Total Reovered: 261132, Death rate: 5.46%, Recovery Rate: 20.61%
+04/05/2020_16:17:14: Us: Total cases: 333173, Total deaths: 9536, Total Reovered: 17177, Death rate: 2.86%, Recovery Rate: 5.16%
+04/05/2020_16:17:14: Italy: Total cases: 128948, Total deaths: 15887, Total Reovered: 21815, Death rate: 12.32%, Recovery Rate: 16.92%
+04/05/2020_16:17:15: France: Total cases: 92839, Total deaths: 8078, Total Reovered: 16183, Death rate: 8.70%, Recovery Rate: 17.43%
+04/05/2020_16:17:15: Iran: Total cases: 58226, Total deaths: 3603, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 33.90%
+04/05/2020_16:17:15: Uk: Total cases: 47806, Total deaths: 4934, Total Reovered: 135, Death rate: 10.32%, Recovery Rate: 0.28%
+04/05/2020_16:17:16: Germany: Total cases: 100024, Total deaths: 1576, Total Reovered: 28700, Death rate: 1.58%, Recovery Rate: 28.69%
+04/05/2020_16:17:16: Spain: Total cases: 130854, Total deaths: 12518, Total Reovered: 38080, Death rate: 9.57%, Recovery Rate: 29.10%
+04/05/2020_19:17:29: World: Total cases: 1272737, Total deaths: 69418, Total Reovered: 261485, Death rate: 5.45%, Recovery Rate: 20.55%
+04/05/2020_19:17:29: Us: Total cases: 336550, Total deaths: 9610, Total Reovered: 17245, Death rate: 2.86%, Recovery Rate: 5.12%
+04/05/2020_19:17:30: Italy: Total cases: 128948, Total deaths: 15887, Total Reovered: 21815, Death rate: 12.32%, Recovery Rate: 16.92%
+04/05/2020_19:17:30: France: Total cases: 92839, Total deaths: 8078, Total Reovered: 16183, Death rate: 8.70%, Recovery Rate: 17.43%
+04/05/2020_19:17:30: Iran: Total cases: 58226, Total deaths: 3603, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 33.90%
+04/05/2020_19:17:31: Uk: Total cases: 47806, Total deaths: 4934, Total Reovered: 135, Death rate: 10.32%, Recovery Rate: 0.28%
+04/05/2020_19:17:31: Germany: Total cases: 100123, Total deaths: 1584, Total Reovered: 28700, Death rate: 1.58%, Recovery Rate: 28.66%
+04/05/2020_19:17:31: Spain: Total cases: 131646, Total deaths: 12641, Total Reovered: 38080, Death rate: 9.60%, Recovery Rate: 28.93%
+04/05/2020_22:17:36: World: Total cases: 1273709, Total deaths: 69456, Total Reovered: 262486, Death rate: 5.45%, Recovery Rate: 20.61%
+04/05/2020_22:17:36: Us: Total cases: 336830, Total deaths: 9618, Total Reovered: 17977, Death rate: 2.86%, Recovery Rate: 5.34%
+04/05/2020_22:17:37: Italy: Total cases: 128948, Total deaths: 15887, Total Reovered: 21815, Death rate: 12.32%, Recovery Rate: 16.92%
+04/05/2020_22:17:37: France: Total cases: 92839, Total deaths: 8078, Total Reovered: 16183, Death rate: 8.70%, Recovery Rate: 17.43%
+04/05/2020_22:17:37: Iran: Total cases: 58226, Total deaths: 3603, Total Reovered: 19736, Death rate: 6.19%, Recovery Rate: 33.90%
+04/05/2020_22:17:37: Uk: Total cases: 47806, Total deaths: 4934, Total Reovered: 135, Death rate: 10.32%, Recovery Rate: 0.28%
+04/05/2020_22:17:38: Germany: Total cases: 100123, Total deaths: 1584, Total Reovered: 28700, Death rate: 1.58%, Recovery Rate: 28.66%
+04/05/2020_22:17:38: Spain: Total cases: 131646, Total deaths: 12641, Total Reovered: 38080, Death rate: 9.60%, Recovery Rate: 28.93%
+04/06/2020_01:17:41: World: Total cases: 1274578, Total deaths: 69487, Total Reovered: 264838, Death rate: 5.45%, Recovery Rate: 20.78%
+04/06/2020_01:17:42: Us: Total cases: 336830, Total deaths: 9618, Total Reovered: 17977, Death rate: 2.86%, Recovery Rate: 5.34%
+04/06/2020_01:17:42: Italy: Total cases: 128948, Total deaths: 15887, Total Reovered: 21815, Death rate: 12.32%, Recovery Rate: 16.92%
+04/06/2020_01:17:42: France: Total cases: 92839, Total deaths: 8078, Total Reovered: 16183, Death rate: 8.70%, Recovery Rate: 17.43%
+04/06/2020_01:17:43: Iran: Total cases: 58226, Total deaths: 3603, Total Reovered: 22011, Death rate: 6.19%, Recovery Rate: 37.80%
+04/06/2020_01:17:43: Uk: Total cases: 47806, Total deaths: 4934, Total Reovered: 135, Death rate: 10.32%, Recovery Rate: 0.28%
+04/06/2020_01:17:43: Germany: Total cases: 100123, Total deaths: 1584, Total Reovered: 28700, Death rate: 1.58%, Recovery Rate: 28.66%
+04/06/2020_01:17:44: Spain: Total cases: 131646, Total deaths: 12641, Total Reovered: 38080, Death rate: 9.60%, Recovery Rate: 28.93%
+04/06/2020_04:17:48: World: Total cases: 1278383, Total deaths: 69756, Total Reovered: 266696, Death rate: 5.46%, Recovery Rate: 20.86%
+04/06/2020_04:17:49: Us: Total cases: 336851, Total deaths: 9620, Total Reovered: 17977, Death rate: 2.86%, Recovery Rate: 5.34%
+04/06/2020_04:17:49: Italy: Total cases: 128948, Total deaths: 15887, Total Reovered: 21815, Death rate: 12.32%, Recovery Rate: 16.92%
+04/06/2020_04:17:49: France: Total cases: 92839, Total deaths: 8078, Total Reovered: 16183, Death rate: 8.70%, Recovery Rate: 17.43%
+04/06/2020_04:17:50: Iran: Total cases: 58226, Total deaths: 3603, Total Reovered: 22011, Death rate: 6.19%, Recovery Rate: 37.80%
+04/06/2020_04:17:50: Uk: Total cases: 47806, Total deaths: 4934, Total Reovered: 135, Death rate: 10.32%, Recovery Rate: 0.28%
+04/06/2020_04:17:50: Germany: Total cases: 100123, Total deaths: 1584, Total Reovered: 28700, Death rate: 1.58%, Recovery Rate: 28.66%
+04/06/2020_04:17:51: Spain: Total cases: 131646, Total deaths: 12641, Total Reovered: 38080, Death rate: 9.60%, Recovery Rate: 28.93%
+04/06/2020_07:17:56: World: Total cases: 1287128, Total deaths: 70527, Total Reovered: 271882, Death rate: 5.48%, Recovery Rate: 21.12%
+04/06/2020_07:17:56: Us: Total cases: 336851, Total deaths: 9620, Total Reovered: 17977, Death rate: 2.86%, Recovery Rate: 5.34%
+04/06/2020_07:17:57: Italy: Total cases: 128948, Total deaths: 15887, Total Reovered: 21815, Death rate: 12.32%, Recovery Rate: 16.92%
+04/06/2020_07:17:57: France: Total cases: 92839, Total deaths: 8078, Total Reovered: 16183, Death rate: 8.70%, Recovery Rate: 17.43%
+04/06/2020_07:17:57: Iran: Total cases: 60500, Total deaths: 3739, Total Reovered: 24236, Death rate: 6.18%, Recovery Rate: 40.06%
+04/06/2020_07:17:58: Uk: Total cases: 47806, Total deaths: 4934, Total Reovered: 135, Death rate: 10.32%, Recovery Rate: 0.28%
+04/06/2020_07:17:58: Germany: Total cases: 100132, Total deaths: 1584, Total Reovered: 28700, Death rate: 1.58%, Recovery Rate: 28.66%
+04/06/2020_07:17:59: Spain: Total cases: 135032, Total deaths: 13055, Total Reovered: 40437, Death rate: 9.67%, Recovery Rate: 29.95%
+04/06/2020_10:18:08: World: Total cases: 1291845, Total deaths: 70675, Total Reovered: 272426, Death rate: 5.47%, Recovery Rate: 21.09%
+04/06/2020_10:18:11: Us: Total cases: 338999, Total deaths: 9687, Total Reovered: 18002, Death rate: 2.86%, Recovery Rate: 5.31%
+04/06/2020_10:18:13: Italy: Total cases: 128948, Total deaths: 15887, Total Reovered: 21815, Death rate: 12.32%, Recovery Rate: 16.92%
+04/06/2020_10:18:28: France: Total cases: 92839, Total deaths: 8078, Total Reovered: 16183, Death rate: 8.70%, Recovery Rate: 17.43%
+04/06/2020_10:18:30: Iran: Total cases: 60500, Total deaths: 3739, Total Reovered: 24236, Death rate: 6.18%, Recovery Rate: 40.06%
+04/06/2020_10:18:34: Uk: Total cases: 47806, Total deaths: 4934, Total Reovered: 135, Death rate: 10.32%, Recovery Rate: 0.28%
+04/06/2020_10:18:36: Germany: Total cases: 100770, Total deaths: 1608, Total Reovered: 28700, Death rate: 1.60%, Recovery Rate: 28.48%
+04/06/2020_10:18:45: Spain: Total cases: 135032, Total deaths: 13055, Total Reovered: 40437, Death rate: 9.67%, Recovery Rate: 29.95%
+04/06/2020_13:18:51: World: Total cases: 1329303, Total deaths: 73824, Total Reovered: 277295, Death rate: 5.55%, Recovery Rate: 20.86%
+04/06/2020_13:18:51: Us: Total cases: 356414, Total deaths: 10490, Total Reovered: 19247, Death rate: 2.94%, Recovery Rate: 5.40%
+04/06/2020_13:18:52: Italy: Total cases: 132547, Total deaths: 16523, Total Reovered: 22837, Death rate: 12.47%, Recovery Rate: 17.23%
+04/06/2020_13:18:52: France: Total cases: 98010, Total deaths: 8911, Total Reovered: 17250, Death rate: 9.09%, Recovery Rate: 17.60%
+04/06/2020_13:18:52: Iran: Total cases: 60500, Total deaths: 3739, Total Reovered: 24236, Death rate: 6.18%, Recovery Rate: 40.06%
+04/06/2020_13:18:52: Uk: Total cases: 51608, Total deaths: 5373, Total Reovered: 135, Death rate: 10.41%, Recovery Rate: 0.26%
+04/06/2020_13:18:53: Germany: Total cases: 101558, Total deaths: 1662, Total Reovered: 28700, Death rate: 1.64%, Recovery Rate: 28.26%
+04/06/2020_13:18:53: Spain: Total cases: 135032, Total deaths: 13169, Total Reovered: 40437, Death rate: 9.75%, Recovery Rate: 29.95%
+04/06/2020_16:18:57: World: Total cases: 1339274, Total deaths: 74372, Total Reovered: 277852, Death rate: 5.55%, Recovery Rate: 20.75%
+04/06/2020_16:18:58: Us: Total cases: 362573, Total deaths: 10720, Total Reovered: 19313, Death rate: 2.96%, Recovery Rate: 5.33%
+04/06/2020_16:18:58: Italy: Total cases: 132547, Total deaths: 16523, Total Reovered: 22837, Death rate: 12.47%, Recovery Rate: 17.23%
+04/06/2020_16:18:59: France: Total cases: 98010, Total deaths: 8911, Total Reovered: 17250, Death rate: 9.09%, Recovery Rate: 17.60%
+04/06/2020_16:18:59: Iran: Total cases: 60500, Total deaths: 3739, Total Reovered: 24236, Death rate: 6.18%, Recovery Rate: 40.06%
+04/06/2020_16:19:00: Uk: Total cases: 51608, Total deaths: 5373, Total Reovered: 135, Death rate: 10.41%, Recovery Rate: 0.26%
+04/06/2020_16:19:00: Germany: Total cases: 102179, Total deaths: 1712, Total Reovered: 28700, Death rate: 1.68%, Recovery Rate: 28.09%
+04/06/2020_16:19:00: Spain: Total cases: 136675, Total deaths: 13341, Total Reovered: 40437, Death rate: 9.76%, Recovery Rate: 29.59%
+04/06/2020_19:19:04: World: Total cases: 1345653, Total deaths: 74644, Total Reovered: 278413, Death rate: 5.55%, Recovery Rate: 20.69%
+04/06/2020_19:19:04: Us: Total cases: 366906, Total deaths: 10868, Total Reovered: 19656, Death rate: 2.96%, Recovery Rate: 5.36%
+04/06/2020_19:19:05: Italy: Total cases: 132547, Total deaths: 16523, Total Reovered: 22837, Death rate: 12.47%, Recovery Rate: 17.23%
+04/06/2020_19:19:05: France: Total cases: 98010, Total deaths: 8911, Total Reovered: 17250, Death rate: 9.09%, Recovery Rate: 17.60%
+04/06/2020_19:19:05: Iran: Total cases: 60500, Total deaths: 3739, Total Reovered: 24236, Death rate: 6.18%, Recovery Rate: 40.06%
+04/06/2020_19:19:05: Uk: Total cases: 51608, Total deaths: 5373, Total Reovered: 135, Death rate: 10.41%, Recovery Rate: 0.26%
+04/06/2020_19:19:06: Germany: Total cases: 103374, Total deaths: 1810, Total Reovered: 28700, Death rate: 1.75%, Recovery Rate: 27.76%
+04/06/2020_19:19:06: Spain: Total cases: 136675, Total deaths: 13341, Total Reovered: 40437, Death rate: 9.76%, Recovery Rate: 29.59%
+04/06/2020_22:19:24: World: Total cases: 1346974, Total deaths: 74702, Total Reovered: 278698, Death rate: 5.55%, Recovery Rate: 20.69%
+04/06/2020_22:19:25: Us: Total cases: 367385, Total deaths: 10876, Total Reovered: 19671, Death rate: 2.96%, Recovery Rate: 5.35%
+04/06/2020_22:19:26: Italy: Total cases: 132547, Total deaths: 16523, Total Reovered: 22837, Death rate: 12.47%, Recovery Rate: 17.23%
+04/06/2020_22:19:26: France: Total cases: 98010, Total deaths: 8911, Total Reovered: 17250, Death rate: 9.09%, Recovery Rate: 17.60%
+04/06/2020_22:19:26: Iran: Total cases: 60500, Total deaths: 3739, Total Reovered: 24236, Death rate: 6.18%, Recovery Rate: 40.06%
+04/06/2020_22:19:27: Uk: Total cases: 51608, Total deaths: 5373, Total Reovered: 135, Death rate: 10.41%, Recovery Rate: 0.26%
+04/06/2020_22:19:27: Germany: Total cases: 103375, Total deaths: 1810, Total Reovered: 28700, Death rate: 1.75%, Recovery Rate: 27.76%
+04/06/2020_22:19:28: Spain: Total cases: 136675, Total deaths: 13341, Total Reovered: 40437, Death rate: 9.76%, Recovery Rate: 29.59%
