@@ -1,0 +1,553 @@
+03/10/2020 10:55:09 AM TESTCASES:The OneView version/build is: 5.10.00-0418478
+03/10/2020 10:55:09 AM TESTCASES:The ip address of this enclosure is: 15.186.9.21
+03/10/2020 10:55:09 AM TESTCASES:The carbon fw version is: 5.20.82
+03/10/2020 11:12:01 AM TESTCASES:Create Server Profiles:  PASS
+03/10/2020 11:17:16 AM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 11:17:19 AM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 11:17:19 AM TESTCASES:#####################################
+03/10/2020 11:17:19 AM TESTCASES:TestCase: Carbon Failover stress test
+03/10/2020 11:17:19 AM TESTCASES:#####################################
+03/10/2020 11:17:29 AM TESTCASES:iteration: 0
+03/10/2020 11:19:32 AM TESTCASES:Power turned off on carbon bay4:  PASS
+03/10/2020 11:29:38 AM TESTCASES:Power turned on carbon bay4:  PASS
+03/10/2020 11:29:40 AM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 11:29:43 AM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 11:29:44 AM TESTCASES:Check if carbon bay4 is not in error state:  PASS
+03/10/2020 11:29:52 AM TESTCASES:Carbon in Bay4 is in configured state:  PASS
+03/10/2020 11:29:53 AM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 11:29:54 AM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 11:29:54 AM TESTCASES:Carbon Failover stress test:  PASS
+03/10/2020 11:31:57 AM TESTCASES:Power turned off on carbon bay1:  PASS
+03/10/2020 11:42:03 AM TESTCASES:Power turned on carbon bay1:  PASS
+03/10/2020 11:42:06 AM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 11:42:09 AM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 11:42:10 AM TESTCASES:Check if carbon bay1 is not in error state:  PASS
+03/10/2020 11:42:18 AM TESTCASES:Carbon in bay1 is in configured state:  PASS
+03/10/2020 11:42:19 AM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 11:42:19 AM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 11:42:19 AM TESTCASES:Carbon Failover stress test:  PASS
+03/10/2020 11:42:51 AM TESTCASES:iteration: 1
+03/10/2020 11:44:55 AM TESTCASES:Power turned off on carbon bay4:  PASS
+03/10/2020 11:55:00 AM TESTCASES:Power turned on carbon bay4:  PASS
+03/10/2020 11:55:03 AM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 11:55:07 AM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 11:55:07 AM TESTCASES:Check if carbon bay4 is not in error state:  PASS
+03/10/2020 11:55:15 AM TESTCASES:Carbon in Bay4 is in configured state:  PASS
+03/10/2020 11:55:16 AM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 11:55:17 AM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 11:55:17 AM TESTCASES:Carbon Failover stress test:  PASS
+03/10/2020 11:57:20 AM TESTCASES:Power turned off on carbon bay1:  PASS
+03/10/2020 12:07:26 PM TESTCASES:Power turned on carbon bay1:  PASS
+03/10/2020 12:07:29 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 12:07:32 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 12:07:33 PM TESTCASES:Check if carbon bay1 is not in error state:  PASS
+03/10/2020 12:07:40 PM TESTCASES:Carbon in bay1 is in configured state:  PASS
+03/10/2020 12:07:41 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 12:07:42 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 12:07:42 PM TESTCASES:Carbon Failover stress test:  PASS
+03/10/2020 12:08:14 PM TESTCASES:##################################
+03/10/2020 12:08:14 PM TESTCASES:TestCase: Carbon Efuse stress test
+03/10/2020 12:08:14 PM TESTCASES:##################################
+03/10/2020 12:08:23 PM TESTCASES:iteration: 0
+03/10/2020 12:14:29 PM TESTCASES:Power turned on carbon bay1:  PASS
+03/10/2020 12:14:31 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 12:14:34 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 12:14:35 PM TESTCASES:Check if carbon bay1 is not in error state:  PASS
+03/10/2020 12:14:43 PM TESTCASES:Carbon in bay1 is in configured state:  PASS
+03/10/2020 12:14:43 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 12:14:44 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 12:14:44 PM TESTCASES:Carbon Efuse stress test:  PASS
+03/10/2020 12:21:24 PM TESTCASES:Power turned on carbon bay4:  PASS
+03/10/2020 12:21:26 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 12:21:29 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 12:21:30 PM TESTCASES:Check if carbon bay4 is not in error state:  PASS
+03/10/2020 12:21:38 PM TESTCASES:Carbon in Bay4 is in configured state:  PASS
+03/10/2020 12:21:40 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 12:21:42 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 12:21:42 PM TESTCASES:Carbon Efuse stress test:  PASS
+03/10/2020 12:22:46 PM TESTCASES:iteration: 1
+03/10/2020 12:28:51 PM TESTCASES:Power turned on carbon bay1:  PASS
+03/10/2020 12:28:54 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 12:28:57 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 12:28:58 PM TESTCASES:Check if carbon bay1 is not in error state:  PASS
+03/10/2020 12:29:05 PM TESTCASES:Carbon in bay1 is in configured state:  PASS
+03/10/2020 12:29:06 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 12:29:07 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 12:29:07 PM TESTCASES:Carbon Efuse stress test:  PASS
+03/10/2020 12:35:46 PM TESTCASES:Power turned on carbon bay4:  PASS
+03/10/2020 12:35:49 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 12:35:53 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 12:35:54 PM TESTCASES:Check if carbon bay4 is not in error state:  PASS
+03/10/2020 12:36:02 PM TESTCASES:Carbon in Bay4 is in configured state:  PASS
+03/10/2020 12:36:03 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 12:36:03 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 12:36:03 PM TESTCASES:Carbon Efuse stress test:  PASS
+03/10/2020 12:37:07 PM TESTCASES:#################################################
+03/10/2020 12:37:07 PM TESTCASES:TestCase: Carbon Efuse stress test with power off
+03/10/2020 12:37:07 PM TESTCASES:#################################################
+03/10/2020 12:37:17 PM TESTCASES:iteration: 0
+03/10/2020 12:40:20 PM TESTCASES:Power turned off on carbon bay1:  PASS
+03/10/2020 12:40:21 PM TESTCASES:Carbon in bay1 in Maintenance state:  PASS
+03/10/2020 12:48:27 PM TESTCASES:Power turned on carbon bay1:  PASS
+03/10/2020 12:48:29 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 12:48:32 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 12:48:33 PM TESTCASES:Check if carbon bay1 is not in error state:  PASS
+03/10/2020 12:48:41 PM TESTCASES:Carbon in bay1 is in configured state:  PASS
+03/10/2020 12:48:41 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 12:48:42 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 12:48:42 PM TESTCASES:Carbon Efuse stress test:  PASS
+03/10/2020 12:52:19 PM TESTCASES:Power turned off on carbon bay4:  PASS
+03/10/2020 12:52:20 PM TESTCASES:Carbon in bay4 in Maintenance state:  PASS
+03/10/2020 01:00:26 PM TESTCASES:Power turned on carbon bay4:  PASS
+03/10/2020 01:00:29 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 01:00:31 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 01:00:32 PM TESTCASES:Check if carbon bay4 is not in error state:  PASS
+03/10/2020 01:00:40 PM TESTCASES:Carbon in Bay4 is in configured state:  PASS
+03/10/2020 01:00:41 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 01:00:42 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 01:00:42 PM TESTCASES:Carbon Efuse stress test:  PASS
+03/10/2020 01:01:16 PM TESTCASES:iteration: 1
+03/10/2020 01:04:19 PM TESTCASES:Power turned off on carbon bay1:  PASS
+03/10/2020 01:04:20 PM TESTCASES:Carbon in bay1 in Maintenance state:  PASS
+03/10/2020 01:12:25 PM TESTCASES:Power turned on carbon bay1:  PASS
+03/10/2020 01:12:28 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 01:12:32 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 01:12:33 PM TESTCASES:Check if carbon bay1 is not in error state:  PASS
+03/10/2020 01:12:40 PM TESTCASES:Carbon in bay1 is in configured state:  PASS
+03/10/2020 01:12:41 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 01:12:42 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 01:12:42 PM TESTCASES:Carbon Efuse stress test:  PASS
+03/10/2020 01:16:19 PM TESTCASES:Power turned off on carbon bay4:  PASS
+03/10/2020 01:16:20 PM TESTCASES:Carbon in bay4 in Maintenance state:  PASS
+03/10/2020 01:24:26 PM TESTCASES:Power turned on carbon bay4:  PASS
+03/10/2020 01:24:28 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 01:24:31 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 01:24:32 PM TESTCASES:Check if carbon bay4 is not in error state:  PASS
+03/10/2020 01:24:40 PM TESTCASES:Carbon in Bay4 is in configured state:  PASS
+03/10/2020 01:24:41 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 01:24:42 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 01:24:42 PM TESTCASES:Carbon Efuse stress test:  PASS
+03/10/2020 01:25:17 PM TESTCASES:#####################################
+03/10/2020 01:25:17 PM TESTCASES:TestCase: Carbon Reset stress test
+03/10/2020 01:25:17 PM TESTCASES:#####################################
+03/10/2020 01:25:26 PM TESTCASES:iteration: 0
+03/10/2020 01:32:32 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 01:32:34 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 01:32:35 PM TESTCASES:Check if carbon bay4 is not in error state:  PASS
+03/10/2020 01:32:43 PM TESTCASES:Carbon in Bay4 is in configured state:  PASS
+03/10/2020 01:32:44 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 01:32:45 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 01:32:45 PM TESTCASES:Carbon Reset stress test:  PASS
+03/10/2020 01:39:50 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 01:39:53 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 01:39:54 PM TESTCASES:Check if carbon bay1 is not in error state:  PASS
+03/10/2020 01:40:02 PM TESTCASES:Carbon in bay1 is in configured state:  PASS
+03/10/2020 01:40:02 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 01:40:03 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 01:40:03 PM TESTCASES:Carbon Reset stress test:  PASS
+03/10/2020 01:40:35 PM TESTCASES:iteration: 1
+03/10/2020 02:47:38 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 02:47:41 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 02:47:42 PM TESTCASES:Check if carbon bay4 is not in error state:  PASS
+03/10/2020 02:47:49 PM TESTCASES:Carbon in Bay4 is in configured state:  PASS
+03/10/2020 02:47:50 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 02:47:52 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 02:47:52 PM TESTCASES:Carbon Reset stress test:  PASS
+03/10/2020 02:54:57 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 02:55:00 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 02:55:01 PM TESTCASES:Check if carbon bay1 is not in error state:  PASS
+03/10/2020 02:55:08 PM TESTCASES:Carbon in bay1 is in configured state:  PASS
+03/10/2020 02:55:09 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 02:55:10 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 02:55:10 PM TESTCASES:Carbon Reset stress test:  PASS
+03/10/2020 02:55:42 PM TESTCASES:############################
+03/10/2020 02:55:42 PM TESTCASES:TestCase: Restart of Oneview
+03/10/2020 02:55:42 PM TESTCASES:############################
+03/10/2020 02:55:44 PM TESTCASES:iteration: 0
+03/10/2020 03:40:50 PM TESTCASES:Refresh of Enclosure:  PASS
+03/10/2020 03:40:53 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 03:40:56 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 03:40:56 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 03:40:58 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 03:40:59 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 03:41:00 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 03:41:00 PM TESTCASES:Restart of Oneview:  PASS
+03/10/2020 03:41:00 PM TESTCASES:iteration: 1
+03/10/2020 04:26:06 PM TESTCASES:Refresh of Enclosure:  PASS
+03/10/2020 04:26:09 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 04:26:11 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 04:26:12 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 04:26:13 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 04:26:14 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 04:26:15 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 04:26:15 PM TESTCASES:Restart of Oneview:  PASS
+03/10/2020 04:26:15 PM TESTCASES:#####################################
+03/10/2020 04:26:15 PM TESTCASES:TestCase: Carbon Utilization Samples
+03/10/2020 04:26:15 PM TESTCASES:#####################################
+03/10/2020 04:26:19 PM TESTCASES:Here are the utilization samples on ICM CN751302K0, interconnect 1
+03/10/2020 04:26:19 PM TESTCASES:Carbon model: Virtual Connect SE 16Gb FC Module for Synergy
+03/10/2020 04:26:19 PM TESTCASES:Carbon firmware: 5.20.82
+03/10/2020 04:26:19 PM TESTCASES:State of Carbon: Configured
+03/10/2020 04:26:19 PM TESTCASES:Temperature: 102:  PASS
+03/10/2020 04:26:19 PM TESTCASES:PowerAverageWatts: 51:  PASS
+03/10/2020 04:26:19 PM TESTCASES:PowerPeakWatts: 53:  PASS
+03/10/2020 04:26:19 PM TESTCASES:PowerMinimumWatts: 51:  PASS
+03/10/2020 04:26:19 PM TESTCASES:PowerAllocatedWatts: 70:  PASS
+03/10/2020 04:26:19 PM TESTCASES:One or more metric names are missing
+03/10/2020 04:26:19 PM TESTCASES:Carbon Utilization Samples:  FAIL
+03/10/2020 04:26:20 PM TESTCASES:Here are the utilization samples on ICM CN751302K0, interconnect 4
+03/10/2020 04:26:20 PM TESTCASES:Carbon model: Virtual Connect SE 16Gb FC Module for Synergy
+03/10/2020 04:26:20 PM TESTCASES:Carbon firmware: 5.20.82
+03/10/2020 04:26:20 PM TESTCASES:State of Carbon: Configured
+03/10/2020 04:26:20 PM TESTCASES:Temperature: 93:  PASS
+03/10/2020 04:26:20 PM TESTCASES:PowerAverageWatts: 44:  PASS
+03/10/2020 04:26:20 PM TESTCASES:PowerPeakWatts: 46:  PASS
+03/10/2020 04:26:20 PM TESTCASES:PowerMinimumWatts: 44:  PASS
+03/10/2020 04:26:20 PM TESTCASES:PowerAllocatedWatts: 70:  PASS
+03/10/2020 04:26:20 PM TESTCASES:One or more metric names are missing
+03/10/2020 04:26:20 PM TESTCASES:Carbon Utilization Samples:  FAIL
+03/10/2020 04:26:20 PM TESTCASES:###################################################
+03/10/2020 04:26:20 PM TESTCASES:TestCase: Enable/Disable RemoteSyslog Ipv4 and Ipv6
+03/10/2020 04:26:20 PM TESTCASES:###################################################
+03/10/2020 04:29:32 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 04:29:33 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 04:29:34 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 04:29:35 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 04:29:35 PM TESTCASES:Enable/Disable RemoteSyslog Ipv4 and Ipv6:  PASS
+03/10/2020 04:29:35 PM TESTCASES:Enable RemoteSyslog Ipv6:  PASS
+03/10/2020 04:32:56 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 04:32:57 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 04:32:57 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 04:32:58 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 04:32:58 PM TESTCASES:Enable/Disable RemoteSyslog Ipv4 and Ipv6:  PASS
+03/10/2020 04:32:58 PM TESTCASES:Disable RemoteSyslog Ipv6:  PASS
+03/10/2020 04:36:02 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 04:36:03 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 04:36:04 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 04:36:04 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 04:36:04 PM TESTCASES:Enable/Disable RemoteSyslog Ipv4 and Ipv6:  PASS
+03/10/2020 04:36:04 PM TESTCASES:Enable RemoteSyslog Ipv4:  PASS
+03/10/2020 04:39:25 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 04:39:26 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 04:39:27 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 04:39:28 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 04:39:28 PM TESTCASES:Enable/Disable RemoteSyslog Ipv4 and Ipv6:  PASS
+03/10/2020 04:39:28 PM TESTCASES:Disable RemoteSyslog Ipv4:  PASS
+03/10/2020 04:39:28 PM TESTCASES:#######################################################
+03/10/2020 04:39:28 PM TESTCASES:testcase: Connector Information and Digital Diagnostics
+03/10/2020 04:39:28 PM TESTCASES:#######################################################
+03/10/2020 04:39:29 PM TESTCASES:The name of the carbon is CN751302K0, interconnect 1
+03/10/2020 04:39:29 PM TESTCASES:Vendor Name for port 1 is HP-F     BROCADE:  PASS
+03/10/2020 04:39:29 PM TESTCASES:Vendor PN for port 1 is QK724A:  PASS
+03/10/2020 04:39:29 PM TESTCASES:Vendor SN for port 1 is HAF3154700006R2:  PASS
+03/10/2020 04:39:29 PM TESTCASES:Port Identifier for port 1 is SFP:  PASS
+03/10/2020 04:39:29 PM TESTCASES:voltage for port 1 is 3309.600:  PASS
+03/10/2020 04:39:29 PM TESTCASES:Temperature for port 1 is 32:  PASS
+03/10/2020 04:39:29 PM TESTCASES:Lane ID for port 1 is 1:  PASS
+03/10/2020 04:39:29 PM TESTCASES:rx_power_mW for port 1 is 0.5022:  PASS
+03/10/2020 04:39:29 PM TESTCASES:rx_power_Bm for port 1 is -2.9910:  PASS
+03/10/2020 04:39:29 PM TESTCASES:tx_power_mW for port 1 is 0.5242:  PASS
+03/10/2020 04:39:29 PM TESTCASES:tx_power_Bm for port 1 is -2.8050:  PASS
+03/10/2020 04:39:29 PM TESTCASES:current for port 1 is 8.146:  PASS
+03/10/2020 04:39:29 PM TESTCASES:The name of the carbon is CN751302K0, interconnect 4
+03/10/2020 04:39:29 PM TESTCASES:Vendor Name for port 1 is HP-A     BROCADE:  PASS
+03/10/2020 04:39:29 PM TESTCASES:Vendor PN for port 1 is AJ716B:  PASS
+03/10/2020 04:39:29 PM TESTCASES:Vendor SN for port 1 is UAA414207820872:  PASS
+03/10/2020 04:39:29 PM TESTCASES:Port Identifier for port 1 is SFP:  PASS
+03/10/2020 04:39:29 PM TESTCASES:voltage for port 1 is 3318.000:  PASS
+03/10/2020 04:39:29 PM TESTCASES:Temperature for port 1 is 27:  PASS
+03/10/2020 04:39:29 PM TESTCASES:Lane ID for port 1 is 1:  PASS
+03/10/2020 04:39:29 PM TESTCASES:rx_power_mW for port 1 is 0.4465:  PASS
+03/10/2020 04:39:29 PM TESTCASES:rx_power_Bm for port 1 is -3.5020:  PASS
+03/10/2020 04:39:29 PM TESTCASES:tx_power_mW for port 1 is 0.5531:  PASS
+03/10/2020 04:39:29 PM TESTCASES:tx_power_Bm for port 1 is -2.5720:  PASS
+03/10/2020 04:39:29 PM TESTCASES:current for port 1 is 6.000:  PASS
+03/10/2020 04:39:29 PM TESTCASES:######################################################################
+03/10/2020 04:39:29 PM TESTCASES:TestCase: Add/Remove IPv4 Static Address Range to/from Enclosure Group
+03/10/2020 04:39:29 PM TESTCASES:######################################################################
+03/10/2020 04:55:22 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 04:55:25 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 04:55:26 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 04:55:27 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 04:55:28 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 04:55:29 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 04:55:29 PM TESTCASES:Add/Remove IPv4 Static Address Range to/from Enclosure Group:  PASS
+03/10/2020 05:06:31 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 05:06:33 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 05:06:34 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 05:06:35 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 05:06:36 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 05:06:37 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 05:06:37 PM TESTCASES:Add/Remove IPv4 Static Address Range to/from Enclosure Group:  PASS
+03/10/2020 05:06:39 PM TESTCASES:#################################################
+03/10/2020 05:06:39 PM TESTCASES:TestCase: Remove/Add FC Network from ULS from LIG
+03/10/2020 05:06:39 PM TESTCASES:#################################################
+03/10/2020 05:06:46 PM TESTCASES:iteration: 0
+03/10/2020 05:24:32 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 05:24:33 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 05:24:34 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 05:24:35 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 05:24:35 PM TESTCASES:Remove/Add FC Network from ULS from LIG:  PASS
+03/10/2020 05:24:37 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 05:24:40 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 05:42:56 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 05:42:57 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 05:42:58 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 05:42:59 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 05:42:59 PM TESTCASES:Remove/Add FC Network from ULS from LIG:  PASS
+03/10/2020 05:43:01 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 05:43:04 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 05:43:16 PM TESTCASES:iteration: 1
+03/10/2020 06:01:02 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 06:01:03 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 06:01:04 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 06:01:04 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 06:01:04 PM TESTCASES:Remove/Add FC Network from ULS from LIG:  PASS
+03/10/2020 06:01:07 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 06:01:10 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 06:19:26 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 06:19:27 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 06:19:28 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 06:19:29 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 06:19:29 PM TESTCASES:Remove/Add FC Network from ULS from LIG:  PASS
+03/10/2020 06:19:31 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 06:19:34 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 06:19:46 PM TESTCASES:################################################
+03/10/2020 06:19:46 PM TESTCASES:TestCase: Remove/Add FC Network from ULS from LI
+03/10/2020 06:19:46 PM TESTCASES:################################################
+03/10/2020 06:20:07 PM TESTCASES:iteration: 0
+03/10/2020 06:32:18 PM TESTCASES:Check if carbon bay1 is not in error state:  PASS
+03/10/2020 06:32:26 PM TESTCASES:Carbon in bay1 is in configured state:  PASS
+03/10/2020 06:32:27 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 06:32:28 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 06:32:28 PM TESTCASES:Remove/Add FC Network from ULS from LI:  PASS
+03/10/2020 06:32:30 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 06:32:33 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 06:44:44 PM TESTCASES:Check if carbon bay4 is not in error state:  PASS
+03/10/2020 06:44:52 PM TESTCASES:Carbon in Bay4 is in configured state:  PASS
+03/10/2020 06:44:53 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 06:44:54 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 06:44:54 PM TESTCASES:Remove/Add FC Network from ULS from LI:  PASS
+03/10/2020 06:44:56 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 06:44:59 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 06:45:31 PM TESTCASES:iteration: 1
+03/10/2020 06:57:42 PM TESTCASES:Check if carbon bay1 is not in error state:  PASS
+03/10/2020 06:57:50 PM TESTCASES:Carbon in bay1 is in configured state:  PASS
+03/10/2020 06:57:51 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 06:57:51 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 06:57:51 PM TESTCASES:Remove/Add FC Network from ULS from LI:  PASS
+03/10/2020 06:57:54 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 06:57:57 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 07:10:08 PM TESTCASES:Check if carbon bay4 is not in error state:  PASS
+03/10/2020 07:10:16 PM TESTCASES:Carbon in Bay4 is in configured state:  PASS
+03/10/2020 07:10:17 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 07:10:18 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 07:10:18 PM TESTCASES:Remove/Add FC Network from ULS from LI:  PASS
+03/10/2020 07:10:20 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 07:10:23 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 07:10:55 PM TESTCASES:########################################
+03/10/2020 07:10:55 PM TESTCASES:TestCase: UFG LE with A-Side B-side LIGs
+03/10/2020 07:10:55 PM TESTCASES:########################################
+03/10/2020 07:11:33 PM TESTCASES:iteration: 0
+03/10/2020 07:33:52 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 07:33:53 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 07:33:53 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 07:33:54 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 07:33:54 PM TESTCASES:UFG LE with A-Side B-side LIGs:  PASS
+03/10/2020 07:33:58 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 07:34:01 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 07:56:19 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 07:56:20 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 07:56:21 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 07:56:22 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 07:56:22 PM TESTCASES:UFG LE with A-Side B-side LIGs:  PASS
+03/10/2020 07:56:24 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 07:56:27 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 07:57:29 PM TESTCASES:iteration: 1
+03/10/2020 08:19:48 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 08:19:49 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 08:19:50 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 08:19:51 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 08:19:51 PM TESTCASES:UFG LE with A-Side B-side LIGs:  PASS
+03/10/2020 08:19:53 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 08:19:56 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 08:42:14 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 08:42:15 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 08:42:16 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 08:42:17 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 08:42:17 PM TESTCASES:UFG LE with A-Side B-side LIGs:  PASS
+03/10/2020 08:42:19 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 08:42:22 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 08:43:24 PM TESTCASES:#######################################################
+03/10/2020 08:43:24 PM TESTCASES:TestCase: Change port speeds(4/8/16GB) on ToR FC switch
+03/10/2020 08:43:24 PM TESTCASES:#######################################################
+03/10/2020 08:43:38 PM TESTCASES:Port speed set to 4Gb
+03/10/2020 08:49:02 PM TESTCASES:Port Q1:1 is set at Speed4G:  PASS
+03/10/2020 08:49:02 PM TESTCASES:Port Q1:2 is set at Speed4G:  PASS
+03/10/2020 08:49:02 PM TESTCASES:Port Q1:3 is set at Speed4G:  PASS
+03/10/2020 08:49:02 PM TESTCASES:Port Q1:4 is set at Speed4G:  PASS
+03/10/2020 08:49:03 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 08:49:04 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 08:49:04 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 08:49:05 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 08:49:05 PM TESTCASES:Change port speeds(4/8/16GB) on ToR FC switch:  PASS
+03/10/2020 08:49:08 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 08:49:10 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 08:49:10 PM TESTCASES:Port speed set to 8Gb
+03/10/2020 08:54:35 PM TESTCASES:Port Q1:1 is set at Speed8G:  PASS
+03/10/2020 08:54:35 PM TESTCASES:Port Q1:2 is set at Speed8G:  PASS
+03/10/2020 08:54:35 PM TESTCASES:Port Q1:3 is set at Speed8G:  PASS
+03/10/2020 08:54:35 PM TESTCASES:Port Q1:4 is set at Speed8G:  PASS
+03/10/2020 08:54:36 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 08:54:37 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 08:54:38 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 08:54:39 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 08:54:39 PM TESTCASES:Change port speeds(4/8/16GB) on ToR FC switch:  PASS
+03/10/2020 08:54:41 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 08:54:44 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 08:54:44 PM TESTCASES:Port speed set to 16Gb
+03/10/2020 09:00:07 PM TESTCASES:Port Q1:1 is set at Speed16G:  PASS
+03/10/2020 09:00:07 PM TESTCASES:Port Q1:2 is set at Speed16G:  PASS
+03/10/2020 09:00:07 PM TESTCASES:Port Q1:3 is set at Speed16G:  PASS
+03/10/2020 09:00:07 PM TESTCASES:Port Q1:4 is set at Speed16G:  PASS
+03/10/2020 09:00:08 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 09:00:09 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 09:00:10 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 09:00:11 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 09:00:11 PM TESTCASES:Change port speeds(4/8/16GB) on ToR FC switch:  PASS
+03/10/2020 09:00:14 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 09:00:16 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 09:00:16 PM TESTCASES:Port speed set to Auto
+03/10/2020 09:05:40 PM TESTCASES:Port Q1:1 is set at Speed16G:  PASS
+03/10/2020 09:05:40 PM TESTCASES:Port Q1:2 is set at Speed16G:  PASS
+03/10/2020 09:05:40 PM TESTCASES:Port Q1:3 is set at Speed16G:  PASS
+03/10/2020 09:05:40 PM TESTCASES:Port Q1:4 is set at Speed16G:  PASS
+03/10/2020 09:05:41 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 09:05:42 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 09:05:43 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 09:05:44 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 09:05:44 PM TESTCASES:Change port speeds(4/8/16GB) on ToR FC switch:  PASS
+03/10/2020 09:05:46 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 09:05:49 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 09:05:49 PM TESTCASES:########################################################################
+03/10/2020 09:05:49 PM TESTCASES:TestCase: Configure Port Monitor, Bi-directional, To Server, From Server
+03/10/2020 09:05:49 PM TESTCASES:########################################################################
+03/10/2020 09:10:55 PM TESTCASES:Port Monitor is set to Bi-Directional:  PASS
+03/10/2020 09:10:55 PM TESTCASES:Monitored Port Status:  PASS
+03/10/2020 09:10:55 PM TESTCASES:Analyzer Port Status:  PASS
+03/10/2020 09:15:58 PM TESTCASES:Port Monitor is set to From Server:  PASS
+03/10/2020 09:15:58 PM TESTCASES:Monitored Port Status:  PASS
+03/10/2020 09:15:58 PM TESTCASES:Analyzer Port Status:  FAIL
+03/10/2020 09:21:00 PM TESTCASES:Port Monitor is set to To Server:  PASS
+03/10/2020 09:21:00 PM TESTCASES:Monitored Port Status:  PASS
+03/10/2020 09:21:01 PM TESTCASES:Analyzer Port Status:  PASS
+03/10/2020 09:26:04 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 09:26:05 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 09:26:06 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 09:26:07 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 09:26:07 PM TESTCASES:Configure Port Monitor, Bi-directional, To Server, From Server:  PASS
+03/10/2020 09:26:10 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 09:26:12 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 09:26:12 PM TESTCASES:################################################
+03/10/2020 09:26:12 PM TESTCASES:TestCase: Remove/Add LIG from/to Enclosure Group
+03/10/2020 09:26:12 PM TESTCASES:################################################
+03/10/2020 09:43:53 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 09:43:54 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 09:43:55 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 09:43:56 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 09:43:56 PM TESTCASES:Remove/Add LIG from/to Enclosure Group:  PASS
+03/10/2020 09:43:58 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 09:44:01 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 09:44:01 PM TESTCASES:#########################################
+03/10/2020 09:44:01 PM TESTCASES:TestCase: Disable/Enable Trunking on LIG
+03/10/2020 09:44:01 PM TESTCASES:#########################################
+03/10/2020 10:11:28 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 10:11:29 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 10:11:30 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 10:11:31 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 10:11:31 PM TESTCASES:Disable/Enable Trunking on LIG:  PASS
+03/10/2020 10:11:34 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 10:11:37 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 10:28:11 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 10:28:12 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 10:28:13 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 10:28:14 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 10:28:14 PM TESTCASES:Speed set to 4Gb/8Gb/16Gb with trunking Enabled:  PASS
+03/10/2020 10:28:16 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 10:28:19 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 10:44:54 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 10:44:55 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 10:44:55 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 10:44:56 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 10:44:56 PM TESTCASES:Speed set to 4Gb/8Gb/16Gb with trunking Enabled:  PASS
+03/10/2020 10:44:59 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 10:45:01 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 10:45:01 PM TESTCASES:#######################################################
+03/10/2020 10:45:01 PM TESTCASES:TestCase: Server Profile FC Connection set to 16GB/Auto
+03/10/2020 10:45:01 PM TESTCASES:#######################################################
+03/10/2020 10:45:10 PM TESTCASES:iteration: 0
+03/10/2020 10:55:52 PM TESTCASES:Update Server Profiles to 16Gb:  PASS
+03/10/2020 11:05:04 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 11:05:05 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 11:05:06 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 11:05:07 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 11:05:07 PM TESTCASES:Server Profile FC Connection set to 16GB/Auto:  PASS
+03/10/2020 11:05:09 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 11:05:12 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 11:05:12 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 2:  PASS
+03/10/2020 11:05:12 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 2:  PASS
+03/10/2020 11:05:12 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 4:  PASS
+03/10/2020 11:05:12 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 4:  PASS
+03/10/2020 11:05:12 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 1:  PASS
+03/10/2020 11:05:12 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 1:  PASS
+03/10/2020 11:05:12 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 3:  PASS
+03/10/2020 11:05:12 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 3:  PASS
+03/10/2020 11:15:54 PM TESTCASES:Update Server Profiles to Auto:  PASS
+03/10/2020 11:25:05 PM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 2:  PASS
+03/10/2020 11:25:05 PM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 2:  PASS
+03/10/2020 11:25:05 PM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 4:  PASS
+03/10/2020 11:25:05 PM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 4:  PASS
+03/10/2020 11:25:05 PM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 1:  PASS
+03/10/2020 11:25:05 PM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 1:  PASS
+03/10/2020 11:25:05 PM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 3:  PASS
+03/10/2020 11:25:05 PM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 3:  PASS
+03/10/2020 11:25:05 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 11:25:06 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 11:25:07 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 11:25:08 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 11:25:08 PM TESTCASES:Server Profile FC Connection set to 16GB/Auto:  PASS
+03/10/2020 11:25:10 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 11:25:13 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 11:26:15 PM TESTCASES:iteration: 1
+03/10/2020 11:36:57 PM TESTCASES:Update Server Profiles to 16Gb:  PASS
+03/10/2020 11:46:09 PM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/10/2020 11:46:10 PM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/10/2020 11:46:11 PM TESTCASES:Status of Uplink ports:  PASS
+03/10/2020 11:46:11 PM TESTCASES:Status of Downlink ports:  PASS
+03/10/2020 11:46:11 PM TESTCASES:Server Profile FC Connection set to 16GB/Auto:  PASS
+03/10/2020 11:46:14 PM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/10/2020 11:46:17 PM TESTCASES:The number of FLOGIs on Bay4:  PASS
+03/10/2020 11:46:17 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 2:  PASS
+03/10/2020 11:46:17 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 2:  PASS
+03/10/2020 11:46:17 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 4:  PASS
+03/10/2020 11:46:17 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 4:  PASS
+03/10/2020 11:46:17 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 1:  PASS
+03/10/2020 11:46:17 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 1:  PASS
+03/10/2020 11:46:17 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 3:  PASS
+03/10/2020 11:46:17 PM TESTCASES:FC Connection set to 16000, allocated bw set 16000, maximum bw set 16000 on Server Profile 3:  PASS
+03/10/2020 11:56:58 PM TESTCASES:Update Server Profiles to Auto:  PASS
+03/11/2020 12:06:10 AM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 2:  PASS
+03/11/2020 12:06:10 AM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 2:  PASS
+03/11/2020 12:06:10 AM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 4:  PASS
+03/11/2020 12:06:10 AM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 4:  PASS
+03/11/2020 12:06:10 AM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 1:  PASS
+03/11/2020 12:06:10 AM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 1:  PASS
+03/11/2020 12:06:10 AM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 3:  PASS
+03/11/2020 12:06:10 AM TESTCASES:FC Connection set to Auto, allocated bw set 16000, maximum bw set 16000 on Server Profile 3:  PASS
+03/11/2020 12:06:10 AM TESTCASES:Check if carbon(s) are not in error state:  PASS
+03/11/2020 12:06:11 AM TESTCASES:The carbons are in configured/Monitored state:  PASS
+03/11/2020 12:06:12 AM TESTCASES:Status of Uplink ports:  PASS
+03/11/2020 12:06:13 AM TESTCASES:Status of Downlink ports:  PASS
+03/11/2020 12:06:13 AM TESTCASES:Server Profile FC Connection set to 16GB/Auto:  PASS
+03/11/2020 12:06:15 AM TESTCASES:The number of FLOGIs on Bay1:  PASS
+03/11/2020 12:06:18 AM TESTCASES:The number of FLOGIs on Bay4:  PASS
