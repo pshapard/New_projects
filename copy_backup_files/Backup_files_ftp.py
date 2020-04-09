@@ -14,15 +14,7 @@ import time
 user = 'username used to login'
 passwd = 'password used to login'
 ftp = FTP('ip address of ftp server')
-folders_dict = {'C:\Python27':'Python27',
-                'C:\Python27\synergy_json':'synergy_json',
-                'C:\Python27\RestAPiV200':'RestAPiV200',
-                'C:\Python27\RestAPiV300':'RestAPiV300',
-                'C:\Python27\RestAPiV800':'RestAPiV800',
-                'C:\Python27\RestAPiV1000':'RestAPiV1000',
-                'C:\Python27\RestAPiV1200':'RestAPiV1200',
-                'C:\Python27\RestAPiV1400':'RestAPiV1400',
-                'C:\Python27\RestAPiV1600':'RestAPiV1600'}
+folders_dict = {'C:\Python27':'Python27'}
 
 def copyFiles(ftp, path):
     """function to copy local files to remote ftp server."""
