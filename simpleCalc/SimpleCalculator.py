@@ -1,6 +1,6 @@
 #Created: 04/17/2020
 #Author: Patrick Shapard
-#The simple Calculator writte with python 3.8.2
+#The simple Calculator written with python 3.8.2
 
 
 
