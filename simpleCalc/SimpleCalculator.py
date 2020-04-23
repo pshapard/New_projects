@@ -1,12 +1,11 @@
-#Created: 04/17/2020
-#Author: Patrick Shapard
-#The simple Calculator written with python 3.8.2
-
+#!/usr/bin/python
+# Created: 04/17/2020
+# Author: Patrick Shapard
+# The simple Calculator written with python 3.8.2
 
 
 def Calculate(x, y, oper):
     """Input 3 variables(x, y, operation) and returns the answer """
-
     if oper == 'add':
         return("{:,.2f}".format(x + y))
 
@@ -24,6 +23,7 @@ def Calculate(x, y, oper):
 
 
 def user_input():
+    """Takes user input for x, y, and oper variables, then performs operation. """
     while True:
         try:
             x = float(input("Input first number: "))
