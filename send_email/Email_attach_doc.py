@@ -11,8 +11,7 @@
 """Email_variables is a file which contains username and password
    of the email account that will be used to send the emails.  For security reasons, 
    store login credentials in a separate file and import them in this script.  Or, you can store
-   login creds in emvironment variables and use the os.environ module to read the 
-   localhost environment variables."""
+   login creds in emvironment variables and use the os.environ module to read the username and password."""
 
 import os
 import smtplib
