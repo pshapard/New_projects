@@ -58,61 +58,76 @@ deck_of_cards = {1: 2,
                   51: 10,
                   52: 11}
 
-def deal_card():
-    for key, value in deck_of_cards.items():
-        if key:
-            deal = random.randrange(key, 53)
-            if deal not in deck_of_cards:
-                continue
-            else:
-                #print(deal, deck_of_cards[deal])
-                return deck_of_cards[deal]
-        deck_of_cards.pop(deal, None)
+class BlackJack(object):
 
+    def __init__(self):
+        pass
 
-def player1():
-    card1 = deal_card()
-    card2 = deal_card()
-    points = card1 + card2
-    print(f'Player 1 has:  {points}')
-    if points == 21:
-        print("Blackjack!")
-        return points
-    elif points <= 21:
-        while points < 21:
-            response = input("Do you want to hit? (y)es,(n)o: ")
-            if response == 'yes' or response == 'y':
-                card = deal_card()
-                points = points + card
-                print(f"Player has {points}")
-            elif response == 'no' or response == 'n':
-                return points
-        return points
-            
+    def __repr__(self):
+       pass
 
+    def __str__(self):
+        pass
 
-def dealer():
-    card1 = deal_card()
-    card2 = deal_card()
-    points = card1 + card2
-    print(f'Dealer has:  {points}')
-    if points == 21:
-        print("You lose!")
-        return points
-    while points <= 16:
-        card = deal_card()
-        points = points + card
-        print(f"The Dealer has {points}")
-        if points > 21:
-            print("Dealer busted")
+    def deal_card(self):
+        for key, value in deck_of_cards.items():
+            if key:
+                deal = random.randrange(key, 53)
+                if deal not in deck_of_cards:
+                    continue
+                else:
+                    return deck_of_cards[deal]
+            deck_of_cards.pop(deal, None)
+
+    def player(self):
+        """Player is dealt two cards. Player is asked if they
+           want another card. If player's points is greater
+           than 21, player has busted"""
+        obj = BlackJack()
+        card1 = obj.deal_card()
+        card2 = obj.deal_card()
+        points = card1 + card2
+        print(f'Player 1 has:  {points}')
+        if points == 21:
+            print("Blackjack!")
             return points
-    return points
+        elif points <= 21:
+            while points < 21:
+                response = input("Do you want to hit? (y)es,(n)o: ")
+                if response == 'yes' or response == 'y':
+                    card = obj.deal_card()
+                    points = points + card
+                    print(f"Player has {points}")
+                elif response == 'no' or response == 'n':
+                    return points
+            return points
+
+    def dealer(self):
+        """Function deals two cards to dealer.
+           If dealer has less than 17, dealer will
+           be dealt a card. if dealer has 17, dealer
+           points will be returned."""
+        obj = BlackJack()
+        card1 = obj.deal_card()
+        card2 = obj.deal_card()
+        points = card1 + card2
+        print(f'Dealer has:  {points}')
+        if points == 21:
+            print("Dealer has Blackjack!")
+            return points
+        elif points <= 16:
+            while points < 17:
+                card = obj.deal_card()
+                points = points + card
+                print(f"The Dealer has {points}")
+            return points
 
 
 def main():
 
-    dealer_cards = dealer()
-    player_cards = player1()
+    obj = BlackJack()
+    dealer_cards = obj.dealer()
+    player_cards = obj.player()
     
     if player_cards > 21:
         print("Player busted")
@@ -120,8 +135,9 @@ def main():
         print("It's a push.")
     elif dealer_cards < player_cards:
         print("You win, congrats!")
-    elif dealer_cards > player_cards:
-        print("You lose.")
+    elif dealer_cards > 21:
+        print("Dealer busted, player wins")
+
 
 if __name__ == '__main__':
     main()
