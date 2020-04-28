@@ -90,17 +90,24 @@ class BlackJack(object):
         print(f'Player 1 has:  {points}')
         if points == 21:
             print("Blackjack!")
-            return points
+            #return points
         elif points <= 21:
-            while points < 21:
+            while points <= 21:
                 response = input("Do you want to hit? (y)es,(n)o: ")
                 if response == 'yes' or response == 'y':
                     card = obj.deal_card()
                     points = points + card
                     print(f"Player has {points}")
+                    if points == 21:
+                        break
+                    elif points == 21:
+                        card = obj.deal_card()
+                        points = points + card
+                        print(f"Player has {points}")
                 elif response == 'no' or response == 'n':
-                    return points
-            return points
+                    print(f"Player has {points}")
+                    break
+        return points
 
     def dealer(self):
         """Function deals two cards to dealer.
@@ -120,7 +127,7 @@ class BlackJack(object):
                 card = obj.deal_card()
                 points = points + card
                 print(f"The Dealer has {points}")
-            return points
+        return points
 
 
 def main():
@@ -129,14 +136,16 @@ def main():
     dealer_cards = obj.dealer()
     player_cards = obj.player()
     
-    if player_cards > 21:
-        print("Player busted")
+    if player_cards > 21 and dealer_cards < 21:
+        print("Player busted, Dealer wins.  Good luck next time.")
     elif player_cards == dealer_cards:
         print("It's a push.")
     elif dealer_cards < player_cards:
-        print("You win, congrats!")
-    elif dealer_cards > 21:
+        print("Player wins, congrats! Winner Winner, chicken dinner!")
+    elif dealer_cards > 21 and player_cards <= 21:
         print("Dealer busted, player wins")
+    elif dealer_cards > player_cards:
+        print("Dealer wins")
 
 
 if __name__ == '__main__':
