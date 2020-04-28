@@ -76,8 +76,9 @@ class BlackJack(object):
                 if deal not in deck_of_cards:
                     continue
                 else:
-                    return deck_of_cards[deal]
-            deck_of_cards.pop(deal, None)
+                    card = deck_of_cards[deal]
+                    deck_of_cards.pop(deal, None)
+            return card
 
     def player(self):
         """Player is dealt two cards. Player is asked if they
@@ -86,8 +87,12 @@ class BlackJack(object):
         obj = BlackJack()
         card1 = obj.deal_card()
         card2 = obj.deal_card()
+        if card1 == 11 and card2 == 11:
+            print("Both cards are aces, you want 12 or 2")
+        else:
+            pass
         points = card1 + card2
-        print(f'Player 1 has:  {points}')
+        print(f'Player has:  {points}')
         if points == 21:
             print("Blackjack!")
             #return points
@@ -96,56 +101,60 @@ class BlackJack(object):
                 response = input("Do you want to hit? (y)es,(n)o: ")
                 if response == 'yes' or response == 'y':
                     card = obj.deal_card()
+                    print(f'Player is dealt {card}')
                     points = points + card
                     print(f"Player has {points}")
                     if points == 21:
                         break
-                    elif points == 21:
-                        card = obj.deal_card()
-                        points = points + card
-                        print(f"Player has {points}")
+                    elif points < 21:
+                        continue
                 elif response == 'no' or response == 'n':
                     print(f"Player has {points}")
                     break
         return points
 
-    def dealer(self):
+    def dealer(self, card=None):
         """Function deals two cards to dealer.
            If dealer has less than 17, dealer will
            be dealt a card. if dealer has 17, dealer
            points will be returned."""
         obj = BlackJack()
         card1 = obj.deal_card()
-        card2 = obj.deal_card()
-        points = card1 + card2
+        if card == None:
+            points = card1
+        else:
+            points = card + card1
+            print(f'Dealer is dealt {card1}')
         print(f'Dealer has:  {points}')
-        if points == 21:
-            print("Dealer has Blackjack!")
-            return points
-        elif points <= 16:
-            while points < 17:
-                card = obj.deal_card()
-                points = points + card
-                print(f"The Dealer has {points}")
         return points
 
 
 def main():
 
     obj = BlackJack()
-    dealer_cards = obj.dealer()
+    dealer_card = obj.dealer()
     player_cards = obj.player()
+    dealer_cards = obj.dealer(dealer_card)
+    if dealer_cards == 21:
+        print("Dealer has Blackjack!")
+    elif dealer_cards <= 16:
+        while dealer_cards < 17:
+            card = obj.deal_card()
+            print(f'Dealer is dealt {card}')
+            dealer_cards = dealer_cards + card
+            print(f"The Dealer has {dealer_cards}")
     
-    if player_cards > 21 and dealer_cards < 21:
+    if player_cards > 21 and dealer_cards <= 21:
         print("Player busted, Dealer wins.  Good luck next time.")
     elif player_cards == dealer_cards:
         print("It's a push.")
-    elif dealer_cards < player_cards:
-        print("Player wins, congrats! Winner Winner, chicken dinner!")
     elif dealer_cards > 21 and player_cards <= 21:
         print("Dealer busted, player wins")
-    elif dealer_cards > player_cards:
-        print("Dealer wins")
+    elif player_cards < dealer_cards and dealer_cards <= 21:
+        print("Dealer wins.  Good luck next time")
+    elif dealer_cards < player_cards and player_cards <= 21:
+        print("Player wins")
+
 
 
 if __name__ == '__main__':
