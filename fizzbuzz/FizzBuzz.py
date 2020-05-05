@@ -25,7 +25,7 @@ def func(v1, v2):
             buzz_list.append(x)
             print("Buzz")
         else:
-            pass
+            print(x)
 
 
 def main():
