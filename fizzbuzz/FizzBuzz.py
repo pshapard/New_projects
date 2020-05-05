@@ -7,7 +7,7 @@ fizz_list = []
 buzz_list = []
 fizbuz_list = []
 
-def func2(v1, v2):
+def func(v1, v2):
     """Function takes two variables
        Loops thru the range of v1 thru v2
        Prints fizz when x is evenly divisible by 3 
@@ -29,7 +29,7 @@ def func2(v1, v2):
 
 
 def main():
-    func2(1, 101)
+    func(1, 101)
     print(f"The number of elements in the fizzbuzz list is:", len(fizbuz_list))
     print(f"The number of elements in the fizz list is:", len(fizz_list))
     print(f"The number of elements in the buzz list is:", len(buzz_list))
