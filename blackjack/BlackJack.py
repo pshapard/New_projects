@@ -128,6 +128,18 @@ class BlackJack(object):
         print(f'Dealer has:  {points}')
         return points
 
+    def win_or_lose(self, player_cards, dealer_cards):
+        if player_cards > 21 and dealer_cards <= 21:
+            print("Player busted, Dealer wins.  Good luck next time.")
+        elif player_cards == dealer_cards:
+            print("It's a push.")
+        elif dealer_cards > 21 and player_cards <= 21:
+            print("Dealer busted, player wins")
+        elif player_cards < dealer_cards and dealer_cards <= 21:
+            print("Dealer wins.  Good luck next time")
+        elif dealer_cards < player_cards and player_cards <= 21:
+            print("Player wins")
+
 
 def main():
 
@@ -144,16 +156,7 @@ def main():
             dealer_cards = dealer_cards + card
             print(f"The Dealer has {dealer_cards}")
     
-    if player_cards > 21 and dealer_cards <= 21:
-        print("Player busted, Dealer wins.  Good luck next time.")
-    elif player_cards == dealer_cards:
-        print("It's a push.")
-    elif dealer_cards > 21 and player_cards <= 21:
-        print("Dealer busted, player wins")
-    elif player_cards < dealer_cards and dealer_cards <= 21:
-        print("Dealer wins.  Good luck next time")
-    elif dealer_cards < player_cards and player_cards <= 21:
-        print("Player wins")
+    obj.win_or_lose(player_cards, dealer_cards)
 
 
 
